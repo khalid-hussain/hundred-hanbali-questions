@@ -1,4 +1,5 @@
 *.bak
+*.docx
 /target/
 /target/*
 ./target/
