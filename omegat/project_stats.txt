@@ -1,11 +1,11 @@
-12/16/19 2:04 AM
+9/5/21 12:42 AM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
-Total:           	     369	 2091	                      11048	                        12756	     7	
-Remaining:       	     155	  478	                       2043	                         2355	     7	
-Unique:          	     269	 1990	                      10828	                        12535	     7	
-Unique Remaining:	      56	  379	                       1833	                         2145	     7	
+Total:           	     540	 3097	                      15672	                        18273	     9	
+Remaining:       	     327	 1535	                       6915	                         8170	     9	
+Unique:          	     399	 2957	                      15351	                        17951	     9	
+Unique Remaining:	     189	 1399	                       6620	                         7875	     9	
 
 
 Individual File Statistics:
@@ -17,4 +17,6 @@ File Name                              	Total Segments	Remaining Segments	Unique
 01-Kitab-Taharah/04-siwak.txt          	            50	                22	             30	                        2	        119	             22	          99	                     2	                              655	                                   47	                               614	                                           6	                                725	                                     47	                                 684	                                             6	
 01-Kitab-Taharah/05-wudu.txt           	           109	                47	             70	                        8	        517	             47	         478	                     8	                             2731	                                  109	                              2646	                                          24	                               3137	                                    109	                                3052	                                            24	
 01-Kitab-Taharah/06-wiping-socks.txt   	            55	                16	             40	                        2	        372	             16	         356	                     2	                             1843	                                   37	                              1802	                                           6	                               2158	                                     37	                                2116	                                             6	
-01-Kitab-Taharah/07-wudu-nullifiers.txt	            50	                44	             38	                       32	        432	            367	         420	                   355	                             2119	                                 1794	                              2095	                                        1770	                               2491	                                   2106	                                2467	                                          2082	
+01-Kitab-Taharah/07-wudu-nullifiers.txt	            50	                47	             38	                       35	        432	            420	         420	                   408	                             2113	                                 2052	                              2089	                                        2028	                               2485	                                   2414	                                2461	                                          2390	
+01-Kitab-Taharah/08-ghusl.txt          	           111	               109	             72	                       72	        433	            431	         394	                   394	                             2175	                                 2159	                              2078	                                        2078	                               2494	                                   2478	                                2397	                                          2397	
+01-Kitab-Taharah/09-tayammum.txt       	            60	                60	             58	                       58	        573	            573	         573	                   573	                             2455	                                 2455	                              2451	                                        2451	                               3029	                                   3029	                                3025	                                          3025	

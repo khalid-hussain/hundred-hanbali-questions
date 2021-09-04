@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="ar-SA"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ar-SA">
+        <seg># كتاب الطهارة</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T060657Z" creationid="Khalid" creationdate="20190730T042455Z">
+        <seg># Book of Purification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>## أحكام الآنية وأجزاء الميتة</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T231505Z" creationid="Khalid" creationdate="20190730T223631Z">
+        <seg>## Rulings of using utensils and parts of dead (animals)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>## أحكام الاستنجاء وآداب التخلي</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T141211Z" creationid="Khalid" creationdate="20190810T095717Z">
+        <seg>## Ruling on istinjā' (cleaning oneself with water) and etiquettes of relieving oneself</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>## أحكام السواك</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T032130Z" creationid="Khalid" creationdate="20190924T094153Z">
+        <seg>## Rulings of Siwāk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>## أحكام الوضوء</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T032124Z" creationid="Khalid" creationdate="20190924T103004Z">
+        <seg>## Rulings of Wuḍūʾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>## أَحْكَامُ المَسْحِ على الخُفيْنِ</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T060746Z" creationid="Khalid" creationdate="20190926T032138Z">
+        <seg>## Rulings on wiping over the _khuff_ (footgear/leather socks)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>## باب المياه</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T060700Z" creationid="Khalid" creationdate="20190730T042521Z">
+        <seg>## Chapter of Water</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>## باب نواقض الوضوء</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T032417Z" creationid="Khalid" creationdate="20190926T032356Z">
+        <seg>## Chapter of Wuḍūʾ Nullifiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>(انظر: مجموع الفتاوی: ۱۷۹/۲۱).</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T140219Z" creationid="Khalid" creationdate="20191017T140219Z">
+        <seg>(See _Majmūʿ al-Fatāwā_ [21/179]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>- أن يمسحَ ثلاثَ مَسَحَاتٍ تعمُّ كُلَّ مَسْحَةٍ المحلِّ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162215Z" creationid="Khalid" creationdate="20190810T162208Z">
+        <seg>- That (a person) wipes (the place) thrice, each wiping spreading over the (affected) area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>- أَنْ يُقَدِّمَ اليُسْرىٰ عندَ دخولِ الخلاءِ، ويقولَ (بسم الله، أعوذُ باللهِ من الخُبْثِ والخَبَائِثِ).</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T141652Z" creationid="Khalid" creationdate="20190810T162351Z">
+        <seg>- Entering the toilet with one's left foot and saying:
+
+  ::: {custom-style="Arabic Dua"}
+بِسْمِ اللهِ، أَعُوذُ بِاللهِ مِنَ الخُبْثِ وَالخَبَائِثِ  .
+  :::
+
+  ::: {custom-style="Arabic Dua Translation"}
+  In the name of Allāh. I seek refuge in Allāh from the male and female  devils.
+  :::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>- أَو انغمستْ فيهِ كلُّ يدِ المسلمِ المكلَّفِ القائِمِ مِنْ نَوْمِ ليلٍ قبلَ غَسْلِهَا ثلاثًا بنيّةٍ وَتَسْمِيَّةٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T045317Z" creationid="Khalid" creationdate="20190730T045027Z">
+        <seg>- That was dipped in by any hand of a sane _mukallaf_ Muslim who had awakened from sleep, before washing them three times with intent and saying _Bismillāh_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>- أَوْ كَانَ قَلِيْلًا وَاستُعملَ فِي رَفَعِ حَدَثٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T121856Z" creationid="Khalid" creationdate="20190730T044714Z">
+        <seg>- That was _qalīl_ and used to lift ritual impurity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>- إِمَّا أنْ يكونَ هذا الماءُ قليلًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T070056Z" creationid="Khalid" creationdate="20190730T070056Z">
+        <seg>- The water is _qālil_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>- الكثيرُ: وهو ما فوقَ القُلَّتَيْنِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T071246Z" creationid="Khalid" creationdate="20190730T071246Z">
+        <seg>- _Kathīr_: That which is greater than _qullatayn_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>- اليسيرُ أو القليلُ: وهو ما دونَ القُلَّتَيْنِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T071402Z" creationid="Khalid" creationdate="20190730T071402Z">
+        <seg>- _Yasīr_ or _Qalīl_: That which is lesser than _qullatayn_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>- ما تغيَّر كثيرٌ من لَوْنِهِ أو طَعْمِهِ أو رِيْحِهِ بِمُخَالَطَةِ شَيْءٍ طَاهِرٍ كَزَعْفرانٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T044711Z" creationid="Khalid" creationdate="20190730T044635Z">
+        <seg>- Whose color, taste, or smell has changed due to mixing with a pure substance like Saffron.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>- وإذا خَرَجَ قَدَّم اليُمْنىٰ وقالَ (غُفْرَانَكَ، الحمدُ للهِ الَّذِي أَذْهَبَ عَنِّي الأَذىٰ وعافَاني).</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T142239Z" creationid="Khalid" creationdate="20190810T162454Z">
+        <seg>- Using the right foot first to exit the toilet and saying the _duʿāʾ_:
+
+  ::: {custom-style="Arabic Dua"}
+غُفْرَانَكَ، الحَمْدُ لِلهِ الَّذِي أَذْهَبَ عَنِّي الأَذَىٰ وَعَافَانِي  
+  :::
+
+  ::: {custom-style="Arabic Dua Translation"}
+  [O Allāh, I seek] Your forgiveness. All Praise be to Allāh who has removed from me discomfort and granted me relief.
+  :::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>- وإِمَّا أَنْ يكونَ كثيرًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T070523Z" creationid="Khalid" creationdate="20190730T070523Z">
+        <seg>- The water is _kathīr_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>- وَأَنْ لا يتجاوزَ الخارجُ موضعَ العادةِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162245Z" creationid="Khalid" creationdate="20190810T162230Z">
+        <seg>- The thing coming out doesn't extend beyond the place of _ʿādah_ (area of the two openings).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ف1]: توضیح: ابتداء مدة المسح على الخفين من وقتِ الحَدَث بعد لبسهما على طهارة.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T123443Z" creationid="Khalid" creationdate="20191017T123220Z">
+        <seg>[^fn-1]: Note: The time period for allowance of wiping over _khuffs_ starts when the state of purity in which they were put on is lost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ف1]: ورد من حديث عمر بن الخطاب قال: قال رسول الله صلى الله عليه وسلم: «ما منكم من أحدِ يتوضأ فيسبغ الوضوءَ، ثم يقولُ: أشهد أن لا إله إلا الله وأشهد أن محمدًا عبده ورسوله إلا فتحت له أبواب الجنة الثمانية يدخل من أيها شاء» رواه مسلم (234) وأبو داود (169) والترمذي (55) وزاد: «اللهم اجعلني من التوابين واجعلني من المتطهرين» وأما زيادة «واجعلني من عبادك الصالحين» فلا أصل لها.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T144749Z" creationid="Khalid" creationdate="20190926T023808Z">
+        <seg> [^fn1]: It is reported in the _ḥadīth_ of ʿUmar ibn al-Khaṭṭāb \FP_HIM who said that the Prophet \FPBUH said, “Whoever makes _wuḍūʾ_ and perfects it and then says ‘I bear witness that there is no deity (worthy of worship) except Allāh and that Muḥammad is His servant and messenger,’ except that the eight doors of Jannah will open for him and he can enter from whichever he wishes.” Reported by Muslim (234), Abū Dāwūd (169), al-Tirmidhī (55) and there is an extension: “O Allāh, make me from the repentant and make me from the pure.” As for the extension “...and make me from your righteous slaves,” it has no basis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ف2]: وهي: ثمانون كيلًا تقريبًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T123736Z" creationid="Khalid" creationdate="20191017T123709Z">
+        <seg>[^fn-2]: It is approximately 80km.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ف2]: يلاحظ أن المصنف (رحمه الله تعالى) قد ذكر بَدءًا أن سنن الوضوءِ ثمانية عشر، ثم عدها تسعة عشر، والظاهر أنه في البدء تبع صاحب الدليل في العدّ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T025017Z" creationid="Khalid" creationdate="20190926T024307Z">
+        <seg>[^fn2]: Unfortunately, the author (May Allāh have mercy on him) mentioned in the beginning that there were eighteen (18) _sunan_ of _wuḍūʾ_ and then went on to mention nineteen _sunan_. It appears that he has followed the author of _Dalīl al-Ṭālib_ in the number of _sunan_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ف3]: صِمَاخ الأذنين: الخرق المفضي من الأذن إلى الرأس.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T121224Z" creationid="Khalid" creationdate="20190926T030343Z">
+        <seg>[^fn3]: (FILLER): (FILLER).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ف3]: ومحل الفرض: الرِجْلَانِ مع الكعبين.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T123815Z" creationid="Khalid" creationdate="20191017T123741Z">
+        <seg>[^fn-3]: _Maḥal al-Farḍ_: The two feet upto the ankles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ف4]: توضیح: الجبيرة لا تخلو من حالتين:  
+الحالة الأولى: أن توضع على طهارة.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T124730Z" creationid="Khalid" creationdate="20191017T123821Z">
+        <seg>[^fn-4]: Note: (FILLER) in/from two situations/states:
+First: It is placed in a state of purity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ها-1]: توضیح: كلُّ ماءٍ وَقَعَتْ فِيه نَجَاسَةٌ فلا يخلو من حالتين:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T074247Z" creationid="Khalid" creationdate="20190730T070027Z">
+        <seg>[^fn-1]: Any water in which _najāsah_ falls into, is of two states:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ها-1]: فإن عُلِمتْ نجاسةُ الآنيةِ أَو الثيابِ غُسلتْ ثم استُعْملتْ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T231129Z" creationid="Khalid" creationdate="20190730T231129Z">
+        <seg>[^fn-1]: If the impurity of the containers or clothes becomes known, they should be washed and then used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ها-2]: توضیح: ينقسمُ الماءُ باعتبارِ حجمهِ إلى قسمينِ:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T071022Z" creationid="Khalid" creationdate="20190730T070629Z">
+        <seg>[^fn-2]: Note: With regard to volume, water is divided into two categories:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ها-2]: ومثاله: أن يُتَّخِذَ الجلدُ وِعاءً للقمح والشعير والتراب والحصىٰ ونحو ذلك، أما لو جعل وعاءً للماء ونحوه فلا يجوز.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T231235Z" creationid="Khalid" creationdate="20190730T231225Z">
+        <seg>[^fn-2]: For example: Using the skin as a container for (storing) wheat, barley, dirt, pebbles etc. As for using it as a vessel for keeping liquids in it then it's impermissible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[^ها-3]: القُلَّتَانِ: تثنيةُ قُلَّة: وهي الجَرَّةُ الكبيرةُ الكبيرة، سميتْ بذلك لأن الرجلَ القويَّ يُقِلّها - أي يحملُها.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T121610Z" creationid="Khalid" creationdate="20190730T071439Z">
+        <seg>[^fn-3]: _Qullatān_ - the dual of _qullah_, which isa big jar. It is called such because a strong man is required to carry it (_yuqilluhā_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] آنية الكفّارِ وثيابهم طَاهِرةٌ، ما لم تُعْلَمْ نَجَاسَتُهَا.[^ها-1]</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T225350Z" creationid="Khalid" creationdate="20190730T225350Z">
+        <seg> The utensils and clothes of Kuffār are __ṭāhir__ as long as their impurity is not known.[^fn-1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] أقسام الماء ثلاثة:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T042935Z" creationid="Khalid" creationdate="20190730T042935Z">
+        <seg>There are three (3) types of water:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] إن وضعها على طهارة، ولم تتجاوز محل الحاجة، غسل الصحيح، ومسح على الجريح.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191015T141342Z" creationid="Khalid" creationdate="20191015T141342Z">
+        <seg>If put on in a state of purity and does not exceed the wounded area, everything should be washed and the wounded area wiped over.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] السواكُ مسنونٌ كلَّ وقتٍ، لغير صائمٍ بعد الزوال فيكره.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T095523Z" creationid="Khalid" creationdate="20190924T095107Z">
+        <seg>Using Siwāk is _sunnah_ (recommended) at all times except after _zawāl_ for a fasting person.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] الطهارة لغةً: النظافة.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T042655Z" creationid="Khalid" creationdate="20190730T042647Z">
+        <seg>Linguistically, purification means cleanliness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] سُنَنُهُ ثمانيةَ عَشَرَ، وهيَ:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T140212Z" creationid="Khalid" creationdate="20190924T140207Z">
+        <seg>The _sunan_ of Wuḍūʾ are eighteen (18) and they are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] شرط صحّتِهِ الإِنْقَاءُ:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162119Z" creationid="Khalid" creationdate="20190810T162117Z">
+        <seg>Its condition is purity/cleanliness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] شروطُهُ ثمانيةٌ، وهي:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T103936Z" creationid="Khalid" creationdate="20190924T103926Z">
+        <seg>The conditions of Wuḍūʾ are eight (8) and they are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] صفتُهُ:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T161954Z" creationid="Khalid" creationdate="20190924T161953Z">
+        <seg>Its characteristics are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] عظمُ المَيْتَةِ وَقرنُهَا يَطْهُرُ بِالدِّبَاغِ، وكذا جِلْدُهَا، ولا يَطْهُرُ بِالدِّبَاغِ، لكنْ لَوْ دُبِغَ يُبَاحُ استعمالُهُ في اليَابِسَاتِ دُونَ المَائِعَاتِ.[^ها-2]</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T231708Z" creationid="Khalid" creationdate="20190730T230401Z">
+        <seg>Bones and horns of carrion are _najis_. Its skin is also impure and doesn't become pure by tanning. However, it becomes permissible to use for dry things (as opposed to wet things) when tanned.[^fn-2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] فروضٌ الوُضُوءِ سِتَّةٌ، وهي:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T103057Z" creationid="Khalid" creationdate="20190924T103057Z">
+        <seg>The obligatory parts of Wuḍūʾ are six (6) and they are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] نعم.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T072619Z" creationid="Khalid" creationdate="20191012T072619Z">
+        <seg>Yes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] نواقضُ الوضوءِ ثمانيةٌ، وهي:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T034027Z" creationid="Khalid" creationdate="20190926T034027Z">
+        <seg>The nullifiers of Wuḍūʾ are eight (8). They are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] هو: إزالةُ ما خَرَجَ مِنَ السَّبِيْلينِ بماءٍ طَهُورٍ، أو حَجَرٍ مُبَاحٍ ونحوِهِ کالخِرَقِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T141245Z" creationid="Khalid" creationdate="20190810T160922Z">
+        <seg>It means getting rid of what comes out from the two openings with Ṭahūr water, or a permissible (to use) stone and its likes, e.g. pieces of torn cloth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] هي:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162347Z" creationid="Khalid" creationdate="20190810T162347Z">
+        <seg>They are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] يبطلُهُ أحدُ ثلاثةِ أشياءَ، وهيَ:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T072306Z" creationid="Khalid" creationdate="20191012T072306Z">
+        <seg>It is invalidated by one of the following three:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] يجبُ فيهِ التسميةُ فقط وتسقطُ بتركِهَا سَهْوًا، أَوْ جهلًا لا عَمْدًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T103911Z" creationid="Khalid" creationdate="20190924T103804Z">
+        <seg>The only _wājib_ is to recite the _basmalah_ but this is (dropped) if forgotten or out of ignorance but not deliberately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] يجوز بشروطٍ سبْعةٍ، وهي:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T060945Z" creationid="Khalid" creationdate="20191012T060945Z">
+        <seg>It's permissible to wipe over them on seven conditions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] يسن:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T102022Z" creationid="Khalid" creationdate="20190924T102022Z">
+        <seg>It is recommended to:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] يمسح مقيمٌ وعَاصٍ بسفرِهِ يَوْمًا وليلةً مِنْ حينِ حَدَثٍ بَعْدَ لُبْسٍ.[^ف1]</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T145849Z" creationid="Khalid" creationdate="20191012T061907Z">
+        <seg>The resident or the one whose travel is sinful wipes for (a duration of) one day and one night, starting from the time ablution was invalidated after wearing the _khuffs_.[^fn-1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] يُبَاحُ اتخاذُ كُلِّ إِنَاءٍ طَاهِرٍ، واستعمالُهُ إلا آنية الذّهبِ والفضةِ، فيحرمُ استعمالُهُما واتّخاذُهما.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T223940Z" creationid="Khalid" creationdate="20190730T223807Z">
+        <seg> It is permissible to acquire any _ṭāhir_ utensils except those of gold and silver. Thus it's _ḥarām_ to use utensils of gold and silver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] يُكرهُ لَهُ:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162728Z" creationid="Khalid" creationdate="20190810T162727Z">
+        <seg>It is disliked to:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] أخبرني عن حكم المسح عليها؟[^ف4]</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T144725Z" creationid="Khalid" creationdate="20191015T140551Z">
+        <seg>Inform me of the ruling over wiping over it.[^fn-4]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] أخبرني عن صفةِ الوضوءِ الكامل؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T161940Z" creationid="Khalid" creationdate="20190924T161916Z">
+        <seg>Q: Inform me of the all the characteristics of Wuḍūʾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] كم أَقْسَامُ المَاءِ؟ وَمَا هِيَ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T122510Z" creationid="Khalid" creationdate="20190730T042855Z">
+        <seg>How many types of water are there? And what are they?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] كم شروطُ الوضوءِ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T103918Z" creationid="Khalid" creationdate="20190924T103918Z">
+        <seg>What are the conditions of Wuḍūʾ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] كم مُدَّةُ المَسْحِ عليهما؟ وما المقدارُ الذي يجبُ مَسْحُهُ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T061321Z" creationid="Khalid" creationdate="20191012T061321Z">
+        <seg>What's the duration for (which) wiping over them (is permissible)? And what is the portion which is obligatory to wipe on?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] كم نواقض الوضوء؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T032442Z" creationid="Khalid" creationdate="20190926T032420Z">
+        <seg>Q: How many nullfiers of Wuḍūʾ are there?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما الذي يجبُ في الوُضُوءِ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T103742Z" creationid="Khalid" creationdate="20190924T103728Z">
+        <seg>What are the _wājibāt_ of Wuḍūʾ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما الذي يُبَاحُ اتّخَاذُهُ مِنَ الأواني؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T122521Z" creationid="Khalid" creationdate="20190730T223657Z">
+        <seg>What utensils are permissible for acquisition?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما الذي يُسَنُّ فِعْلُهُ من التنظيفِ وتحسينِ الهيئةِ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T102009Z" creationid="Khalid" creationdate="20190924T102009Z">
+        <seg>What are the recommended acts in terms of cleaning and adorning oneself?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما حكمُ السواكِ؟ وفي أيّ محل يتأكدُ؟ وما فائدتُهُ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T122629Z" creationid="Khalid" creationdate="20190924T094211Z">
+        <seg>What is the ruling on using Siwak? When is its use emphasized? What are its benefits?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما حكمُ المسحِ على الخفين؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T060738Z" creationid="Khalid" creationdate="20191012T060738Z">
+        <seg>What's the ruling on wiping over the _khuffs_?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما حُكْمُ آنية الكفَّارِ وَثِيَابِهم؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T122525Z" creationid="Khalid" creationdate="20190730T223950Z">
+        <seg>What's the ruling on using utensils and clothes of Kuffār?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما حُكْمُ أَجْزاءِ المَيْتَةِ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T122533Z" creationid="Khalid" creationdate="20190730T230252Z">
+        <seg>What is the ruling on parts of carrion?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما شرط صحّتِهِ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T141415Z" creationid="Khalid" creationdate="20190810T162100Z">
+        <seg>What is the condition of its validity?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما هو الاستنجاء؟ وما حكمه؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T141234Z" creationid="Khalid" creationdate="20190810T100145Z">
+        <seg>What is istinjā'? And what's its ruling?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما هي آداب قاضي الحَاجَةِ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T122556Z" creationid="Khalid" creationdate="20190810T162321Z">
+        <seg>What are the etiquettes of relieving oneself?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما هي الطهارة لغةً وشرعًا؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T141013Z" creationid="Khalid" creationdate="20190730T042608Z">
+        <seg>What is purification linguistically and technically?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما يكره لقاضي الحاجة؟ وما يَحرمُ عليه؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T122606Z" creationid="Khalid" creationdate="20190810T162547Z">
+        <seg>What is disliked and prohibited when relieving oneself?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما يُبْطلُ المسحَ عليهما؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T072245Z" creationid="Khalid" creationdate="20191012T072245Z">
+        <seg>What invalidates wiping over them?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] هل يجوز المسح على غير الخفين؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T072536Z" creationid="Khalid" creationdate="20191012T072536Z">
+        <seg>Is wiping allowed on other than the _khuffayn_?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] کم سُنَنُ الوُضُوءِ؟ وما هِيَ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T140142Z" creationid="Khalid" creationdate="20190924T140142Z">
+        <seg>How many _sunan_ of Wuḍūʾ are there? What are they?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] کم فرائضُ الوُضُوءِ؟ وَمَا هِيَ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T103027Z" creationid="Khalid" creationdate="20190924T103027Z">
+        <seg>What are the obligatory parts of Wuḍūʾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>أن ينويَ الوضوءَ للصلاةِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T162017Z" creationid="Khalid" creationdate="20190924T162006Z">
+        <seg>To intend the Wuḍūʾ for Ṣalāh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>أنّه يهضمُ الطَّعامَ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101835Z" creationid="Khalid" creationdate="20190924T101835Z">
+        <seg>It aids in digestion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>أو انقضاءُ مدةِ المَسْحِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T072451Z" creationid="Khalid" creationdate="20191012T072451Z">
+        <seg>The cessation of the allowed period for wiping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>أو ظُهورُ بعض محلّ الفَرْضِ.[^ف3]</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T144707Z" creationid="Khalid" creationdate="20191012T072429Z">
+        <seg>When the _Maḥal al-Farḍ_[^fn-3] ceases to be covered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>أو ظِلٍّ نَافِعٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T163241Z" creationid="Khalid" creationdate="20190810T163241Z">
+        <seg>and (To relieve oneself) in beneficial shade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>أَكْبَرُ: وهو ما أَوْجَبَ الغُسْلَ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T042818Z" creationid="Khalid" creationdate="20190730T042801Z">
+        <seg>_Akbar_: That which necessitates _Ghusl_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>إما أن تتجاوز محل الحاجة، فإن قدر على نزعها وإعادة ربطها بحيث لا تتجاوز محلَّ الماء فَعَل، وإلا وَجَبَ عليه أن يتوضأ ويتيمم.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T125536Z" creationid="Khalid" creationdate="20191017T124756Z">
+        <seg>It exceeds the required area; it should be (re)moved and reattached(FILLER Water something), if possible. If not, it is compulsory to perform _wuḍūʾ_ and _tayammum_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>استقبالُ الشَّمسِ والقَمَر.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162741Z" creationid="Khalid" creationdate="20190810T162739Z">
+        <seg>Face the sun and the moon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>استقبالُ القِبْلَةِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T140223Z" creationid="Khalid" creationdate="20190924T140218Z">
+        <seg>Facing the _qiblah_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>استقبالُ القِبْلَةِ، واستدبارُها في الصّحراءِ بلا حَائلٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T165801Z" creationid="Khalid" creationdate="20190810T163029Z">
+        <seg>Face the _qiblah_ and turning one's back towards it when in vacant areas without any barriers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>الأول : طَهُورٌ: وهو الباقي على خِلْقَتِهِ الأَصْلِيَّةِ، سواءٌ نَزَلَ مِنَ المَاءِ أو نَبَعَ مِنَ الأَرْضِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T043036Z" creationid="Khalid" creationdate="20190730T042942Z">
+        <seg>First: _Ṭahūr_. Is is water that remains upon its initial original creation; whether it descends from the sky (i.e. rain) or sprouts from the ground.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>الثالث: نَجِسٌ: وهو ما وَقَعَتْ فِيْهِ نَجَاسَةٌ، وكانَ قليلًا، وإِنْ لم يتغيَّر أو كثيرًا وتغيَّر أحدُ أوصَافِهِ.[^ها-1] ولا يرفعُ الحَدَثَ، ولا يزيلُ الخَبَثَ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T065049Z" creationid="Khalid" creationdate="20190730T060929Z">
+        <seg> Third: _Najis_. It is _qalīl_ water in which _najāsah_ has fallen, even if it doesn't change one of its characteristics;[^fn-1] or _kathīr_ water where at least one of its characteristics change. It doesn't lift ritual impurity nor remove physical impurity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>الثاني: طَاهِرٌ: وهو:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T044632Z" creationid="Khalid" creationdate="20190730T043124Z">
+        <seg>Second: _Ṭāhir_. It is water:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>الحالة الثانية: أن توضع على غير طهارة.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T134321Z" creationid="Khalid" creationdate="20191017T134237Z">
+        <seg>Second: It was put on when not in a state of purity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>الحمد لله وحده، والصلاة والسلام على من لا نبي بعده:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T140952Z" creationid="Khalid" creationdate="20190730T042552Z">
+        <seg>Praises are for Allāh alone and Peace and Blessings be upon the last Prophet \BPBUH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>انظر: كشاف القناع (1/33-34).] وَاجِبٌ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T075119Z" creationid="Khalid" creationdate="20190730T054642Z">
+        <seg>See _Kashāf al-Qināʿ_ (vol. 1, pp. 33--34).] is _wājib_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>انظر: كشاف القناع (1/54--55).</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T231424Z" creationid="Khalid" creationdate="20190730T231353Z">
+        <seg>See _Kashāf al-Qināʿ_ (vol. 1, pp. 54--55).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>انظر: منار السبيل (1\34).</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T025040Z" creationid="Khalid" creationdate="20190926T025040Z">
+        <seg>See _Manār al-Sabīl_ (1/34).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>انقطاعُ ما يوجِبُهُ من بَوْلٍ وريحٍ وَحَیْضٍ وَنِفَاسٍ ونحوِ ذلكَ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T135904Z" creationid="Khalid" creationdate="20190924T104007Z">
+        <seg>To be free from all that obligates it such as urinating, passing wind, menstruation, postpartum bleeding, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>بشرطِ:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162202Z" creationid="Khalid" creationdate="20190810T162202Z">
+        <seg>With the following conditions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>تخليلُ اللحيةِ الكثيفةِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T142353Z" creationid="Khalid" creationdate="20190924T142353Z">
+        <seg>And to run one's fingers through their thick beard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ثم الحَدَثُ قِسْمَانِ:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T042754Z" creationid="Khalid" creationdate="20190730T042753Z">
+        <seg>Spiritual impurities are of two kinds:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ثم زاد عليه سُنيّةَ قراءةِ سورةِ القَدْرِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T025201Z" creationid="Khalid" creationdate="20190926T025201Z">
+        <seg>He has added the recitation of Surah al-Qadr to the _sunan_ of _wuḍūʾ_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ثم يتمضمضُ، ويستنشقُ ثلاثًا ثلاثًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T144904Z" creationid="Khalid" creationdate="20190924T162114Z">
+        <seg>And then to perform _maḍmaḍah_ and _istinshāq_ thrice each.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ثم يغسلُ وجهَهُ ثلاثًا من منبتِ شَعْرِ الرَّأْسِ المُعْتَادِ إلى مُنْتَهىٰ الذَّقنِ طولًا، ومن الأُذُنِ إلى الأُذُنِ عَرْضًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T145100Z" creationid="Khalid" creationdate="20190924T162648Z">
+        <seg>Then to wash the face thrice from the beginning of the hairline at the forehead to the end of chin lengthwise and from one ear to the other widthwise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ثم يغسلُ يديهِ مع مِرْفَقَيْهِ ثلاثًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T163009Z" creationid="Khalid" creationdate="20190924T162949Z">
+        <seg>Then to wash the hands until the elbows thrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ثم يقولُ: بسم الله.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T162048Z" creationid="Khalid" creationdate="20190924T162045Z">
+        <seg>And then to say, “bismillāh.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ثم يمسحُ جميعَ ظاهرِ رَأْسِهِ، يُمِرُّ يَدَيْهِ مِنْ مُقَدَّمِهِ إلى قفاه، ويعيدُهُما.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T145350Z" creationid="Khalid" creationdate="20190924T163020Z">
+        <seg>And then to wipe all of the (apparent/external) head by passing both hands from the front of the head to its back, and then back again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ثم يَغْسِلُ رجليه مع كعبيهِ ثلاثًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T023609Z" creationid="Khalid" creationdate="20190926T023609Z">
+        <seg>Then to wash the feet upto the ankle thrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>حَلْقٌ العَانَةِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T142446Z" creationid="Khalid" creationdate="20190924T102030Z">
+        <seg>Shave pubic hair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ذكرها السامريُّ في المستوعب (1\169) قال : «ثم يقرأ سورة القدر ثلاث مرات»!</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T030313Z" creationid="Khalid" creationdate="20190926T025315Z">
+        <seg>Al-Sāmurī mentioned it in _al-Mustawʿib_ (1/169) and said, “Then recite Sūrah al-Qadr three times.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>عندَ وضوءٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101127Z" creationid="Khalid" creationdate="20190924T101112Z">
+        <seg>During Wuḍūʾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>غَسْلُ الوَجْهِ، وَمِنْهُ: المضمضةُ والاستنشاقُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T103130Z" creationid="Khalid" creationdate="20190924T103130Z">
+        <seg>The washing of the face which includes (al-Madmadah) and (al-Istinshaq).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>فإن أمكنه نزعها ثم ربطها بعد الطهارة فَعل، وإلّا فيتوضأ ويتيمم ولا يمسح عليها، سواء تجاوزت موضع الحاجة أو لا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T135724Z" creationid="Khalid" creationdate="20191017T135709Z">
+        <seg>If possible, it should be removed and then put back on after performing _wuḍūʾ_. Otherwise, _wuḍūʾ_ and _tayammum_ should be performed, irrespective if the (splint) exceeds the wounded area or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>لُبْسهما بعد كمالِ الطّهارةِ بالماءِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T061000Z" creationid="Khalid" creationdate="20191012T061000Z">
+        <seg>They are worn after being in a state of complete purification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ما أوجبَ الغُسْلَ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T072319Z" creationid="Khalid" creationdate="20191012T072319Z">
+        <seg>What necessitates _ghusl_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>هذا هو المذهب، واختار شيخ الإسلام ابن تيمية (رحمه الله تعالى) أن الجبيرة يمسح عليها مطلقًا، سواء شَدّها على طهارة أو على حدث، وسواء جاوزت المحل أو لا، ولا يشترط التيمم عليها بحال، وهو الصواب.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T160416Z" creationid="Khalid" creationdate="20191017T135806Z">
+        <seg>This is the [official position of the] _madhhab_. Shaykh al-Islām Ibn Taymīyyah \FM_HIM opined that orthoses should be wiped over unconditionally, irrespective if put on in a state of purity or not, and irrespective if only the wounded area is covered or not. _Tayammum_ is not required in any case. And this seems to be what is correct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وأخذُ ماءٍ جديدٍ للأُذنينِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T142454Z" creationid="Khalid" creationdate="20190924T142454Z">
+        <seg>And to take another round of water for the ears.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وأما الشعرُ والصُّوفُ والرِّيشُ فَطَاهِرٌ، إِنْ كانَ مِنْ حَيَوَانِ طاهرٍ في الحياةِ، وإِنْ لم يكنْ مَأكُولًا كالهِرَّةِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T231045Z" creationid="Khalid" creationdate="20190730T231045Z">
+        <seg>As for the hair, wool (fur), and feathers then it's pure if the animal is considered pure if alive, even if it's _ḥarām_ to eat, like cats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وأن يتولى وضوءه بنفسه.[^ف2]</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T140617Z" creationid="Khalid" creationdate="20190924T161254Z">
+        <seg>To perform the ablution by one's self (i.e. without the assistance of someone else)[^fn2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وأَصْغَرُ: وهو ما أَوْجَبَ الوُضُوءَ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T042851Z" creationid="Khalid" creationdate="20190730T042829Z">
+        <seg>_Aṣghar_: That which necessitates _Wuḍū_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وأَعْظَمُهَا: أنَّهُ يُذَكِّرُ الشَّهَادَةَ عِنْدَ الموتِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101919Z" creationid="Khalid" creationdate="20190924T101919Z">
+        <seg>And most importantly, it reminds a dying person of the testimony of faith</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وأَنْ يقضيَ حاجتَهُ في طريقٍ مَسْلوكٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T163159Z" creationid="Khalid" creationdate="20190810T163159Z">
+        <seg>To relieve oneself on trodden pathways.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وأَنْ يلبثَ فوقَ حاجتِهِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T163328Z" creationid="Khalid" creationdate="20190810T163328Z">
+        <seg>and to stay longer than is necessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وإباحتُهُمَا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T061126Z" creationid="Khalid" creationdate="20191012T061126Z">
+        <seg>They are permissible to use (not stolen, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وإزالةُ ما يمنعُ وُصُولَ الماءِ من شَمْعٍ أَوْ عَجِيْنٍ أَوْ نَحْوِهِمَا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T140047Z" creationid="Khalid" creationdate="20190924T140047Z">
+        <seg>Removal of anything that prevents water from reaching (the skin) such as wax, dough, and so on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وإطالةِ سكوتٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101625Z" creationid="Khalid" creationdate="20190924T101625Z">
+        <seg>After prolonged silence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وإعفاءُ اللِّحْيَةِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T142618Z" creationid="Khalid" creationdate="20190924T102322Z">
+        <seg>Let the beard grow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وإما أن لا تتجاوز محل الحاجة، فإنه يغسلُ الجزء 
+الصحيح ويمسحُ على الجزء المجبور بلا تیمم.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T134215Z" creationid="Khalid" creationdate="20191017T134027Z">
+        <seg>If it doesn't exceed the wounded area, he would wash the healthy parts and wipe over the wounded area without performing _tayammum_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وإمكانُ المشي بهما عُرفًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T061043Z" creationid="Khalid" creationdate="20191012T061043Z">
+        <seg>It's possible to walk around in them (customarily)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وإن تجاوزت وخيف الضررُ بنزعها، وَجَب مع المسح التيممُ للزائدِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T150855Z" creationid="Khalid" creationdate="20191017T122429Z">
+        <seg>But if it exceeds [the wounded area] and there is fear of harm in its removal, then _tayammum_ is also obligated along with wiping for the excess area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وإِنْ وضَعها علىٰ غير طهارةٍ غَسَل الصحيحَ، وتيمم بلا مِسحٍ تجاوزت أم لا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T161500Z" creationid="Khalid" creationdate="20191017T123142Z">
+        <seg>If not put on in a state of purity, the healthy parts should be washed and _tayammum_ should be performed, without wiping the orthosis, irrespective if it covers more than the wounded area or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>واستصحابُ النيةِ إلى آخرِ الوضوءِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T142820Z" creationid="Khalid" creationdate="20190924T142819Z">
+        <seg>To maintain the intention until the end of Wuḍūʾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والأفضلُ: أن يستجمرَ أولًا بالأَحجارِ ثم يُتْبعُها بالماءِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162314Z" creationid="Khalid" creationdate="20190810T162314Z">
+        <seg>It's preferable to do _istijmār_ with stones first then follow it up with water.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والإتيانُ بالنيةِ عند غسْلِ الكفينِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T140445Z" creationid="Khalid" creationdate="20190924T160503Z">
+        <seg>To realize the intention when washing the hands.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والإسلامُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T104016Z" creationid="Khalid" creationdate="20190924T104016Z">
+        <seg>Islam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والاستنجاءُ أو الاستجمارُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T140115Z" creationid="Khalid" creationdate="20190924T140115Z">
+        <seg>_Istinjāʾ_ or _Istijmār_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والاكتحالُ كلَّ ليلةٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T142536Z" creationid="Khalid" creationdate="20190924T102119Z">
+        <seg>Apply _kohl_ nightly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والبولُ في إنَاءٍ بلا حاجةٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162833Z" creationid="Khalid" creationdate="20190810T162833Z">
+        <seg>Urinate in a container without need.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والبُداءَة بالمضمضةِ والاستنشاقِ قبل غَسْلِ الوجْهِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T144022Z" creationid="Khalid" creationdate="20190924T142215Z">
+        <seg>Starting with _maḍmaḍah_ and _istinshāq_ before washing of the face.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والتمييزُ، أي: بلوغ سَبْعِ سِنِيْنَ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T144753Z" creationid="Khalid" creationdate="20190924T104040Z">
+        <seg>To be able to distinguish, i.e. has reached seven (hijrī) years of age.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والتَّرْتِيْبُ بَيْنَ الأعضاءِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T103345Z" creationid="Khalid" creationdate="20190924T103345Z">
+        <seg>The order of washing the limbs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والزيادةُ في ماءِ الوجهِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T144034Z" creationid="Khalid" creationdate="20190924T142332Z">
+        <seg>(XXX And to increase in water for the face?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والسواكُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T140233Z" creationid="Khalid" creationdate="20190924T140229Z">
+        <seg>Using the _siwāk_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والعقلُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T104028Z" creationid="Khalid" creationdate="20190924T104028Z">
+        <seg>Of sound mind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والغَسلةُ الثانيةُ والثالثةُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T142741Z" creationid="Khalid" creationdate="20190924T142741Z">
+        <seg>And the second and third washings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والفرق: أن استعمال الجلد في المائع يفضي إلى تعدي النجاسة، خلافًا لليابس.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T231347Z" creationid="Khalid" creationdate="20190730T231311Z">
+        <seg>The difference: the usage of the tanned skin for liquids might result in exceeding of the impurity unlike its usage for dry stuff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والكثيرُ:[^ها-2] ما بلغَ قُلَّتَيْنِ فَأَكْثَرَ.[^ها-3] وهما: أحدٌ وسبعونَ رِطْلًا وثلاثةُ أَسْبَاعِ رِطْلٍ بِالنَّابُلُسيِّ وما وَافَقَهُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T122325Z" creationid="Khalid" creationdate="20190730T065746Z">
+        <seg>And _kathīr_ [^fn-2] is that which reaches _qullatayn_ or greater.[^fn-3] _Qullatayn_ is seventy-one (71) and three-sevenths (3/7) _riṭl_ in Nablus (Palestine) or whatever equals it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والكلامُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162815Z" creationid="Khalid" creationdate="20190810T162815Z">
+        <seg>Speak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والله أعلم.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T024301Z" creationid="Khalid" creationdate="20190926T024253Z">
+        <seg>And Allāh knows best.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والماءُ الطهورُ المُبَاحُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T104121Z" creationid="Khalid" creationdate="20190924T104121Z">
+        <seg>Water that is _ṭahūr_ and permissible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والمبالغةُ في سائرِ الأَعْضَاءِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T140233Z" creationid="Khalid" creationdate="20190924T142303Z">
+        <seg>And to exaggerate in the rest of the limbs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والمبالغةُ فيهما لغيرِ الصائمِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T142237Z" creationid="Khalid" creationdate="20190924T142232Z">
+        <seg>And to exaggerate in that for the non-fasting person.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والموالاةُ، وَهِيَ: أَنْ لا يُؤَخِّرَ غَسْلَ عُضْوٍ إلىٰ أَنْ يَجِفَّ ما قبلَهُ بزَمَنٍ معتدلٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T103421Z" creationid="Khalid" creationdate="20190924T103419Z">
+        <seg>Continuity and it is to not delay the washing of limb until one fears that (the time period is separated).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والنطقُ بها سرًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T160518Z" creationid="Khalid" creationdate="20190924T160510Z">
+        <seg>(And pronouncing it silently?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والنظرُ في المِرآةِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T142523Z" creationid="Khalid" creationdate="20190924T102109Z">
+        <seg>Look in the mirror</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والنيةُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T104012Z" creationid="Khalid" creationdate="20190924T104012Z">
+        <seg>Intention</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وانتباهٍ من نومٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101509Z" creationid="Khalid" creationdate="20190924T101509Z">
+        <seg>When one wakes up from sleep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وبالحجرِ: أنْ يبقىٰ أَثَرٌ لا يزيلُهُ إِلَّا الماءُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T141447Z" creationid="Khalid" creationdate="20190810T162144Z">
+        <seg>With stones: (in this case) traces (of _najāsah_) might remain which can only be lifted with water.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وتحت شجرةٍ مُثْمِرةٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T163304Z" creationid="Khalid" creationdate="20190810T163304Z">
+        <seg>and (To relieve oneself) under a tree that has bore fruit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وتخليلُ أصابعِ اليدينِ والرِّجْلَيْنِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T142436Z" creationid="Khalid" creationdate="20190924T142405Z">
+        <seg>And to run one's fingers through both hands and feet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وتغيُّرِ رائحةِ فمٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101522Z" creationid="Khalid" creationdate="20190924T101522Z">
+        <seg>When the smell of mouth changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وتقديمُ اليمنىٰ على اليُسرىٰ مِنَ اليدينِ والرِّجلَيْنِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T142716Z" creationid="Khalid" creationdate="20190924T142656Z">
+        <seg>And to wash the right hand before the left hand and the right leg before the left leg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وثبوتُهُما بنفْسِهِمَا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T061057Z" creationid="Khalid" creationdate="20191012T061057Z">
+        <seg>They are attached to the foot on their own</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وحجمهما : إناءٌ مكعبٌ طول ضِلْعه ذراع وربع، والذراع (54) سم تقريبًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T121937Z" creationid="Khalid" creationdate="20190730T071512Z">
+        <seg>Its volume [is like that of] a cube-shaped container whose sides are 1.25\ cubits long. A cubit is approximately 54\ cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وحَفُّ الشَّاربِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T142553Z" creationid="Khalid" creationdate="20190924T102129Z">
+        <seg>Trim the mustache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وخُلوِّ مَعِدَةٍ منْ طعامٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101740Z" creationid="Khalid" creationdate="20190924T101740Z">
+        <seg>On an empty stomach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ودخولِ مسجدٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101534Z" creationid="Khalid" creationdate="20190924T101534Z">
+        <seg>When entering a Masjid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وذلكَ^[أي: غَسْلُ يد القائم من نوم الليل واجب، ويحتمل أن تكون الإشارة راجعة إلى النية والتسمية، وكلا الاحتمالين صحيح.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T075135Z" creationid="Khalid" creationdate="20190730T045605Z">
+        <seg>And this^[i.e. the washing of the hands of someone who wakes from sleep. However, it could also refer to the intention and saying of the _Basmalah_. Both possibilities are correct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ورَمَادٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162936Z" creationid="Khalid" creationdate="20190810T162936Z">
+        <seg>Urinate on ashes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وزنهما: (۲۰۰) كيلوغرام تقريبًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T071457Z" creationid="Khalid" creationdate="20190730T071457Z">
+        <seg>Its weight is approximately 200 kilograms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وسترُهُمَا لمحلِّ الفَرْضِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T122948Z" creationid="Khalid" creationdate="20191012T061019Z">
+        <seg>They cover the area which is obligatory to wash during ablution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وشرعًا: ارتفاعُ الحدثِ وَزوال الخَبَثِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T141115Z" creationid="Khalid" creationdate="20190730T042708Z">
+        <seg>Technically, it means the lifting of _ḥadath_ (spiritual impurity) and removal of _khabath_ (physical impurity).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وصلاةٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101122Z" creationid="Khalid" creationdate="20190924T101122Z">
+        <seg>Prayer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وصُفْرةِ أسْنَانٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101640Z" creationid="Khalid" creationdate="20190924T101640Z">
+        <seg>On yellowing of the teeth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وطهارةُ عَيْنِهِمَا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T061203Z" creationid="Khalid" creationdate="20191012T061203Z">
+        <seg>They are pure (in themselves)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وعدمُ وصْفِهِمَا البَشَرةَ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T061238Z" creationid="Khalid" creationdate="20191012T061232Z">
+        <seg>They do not describe the skin beneath due to being thin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وغَسْلُ الكفينِ ثلاثًا، لغيرِ قائمٍ من نَوْمِ ليلٍ، فيجب بنية وتسمية - كما تقدم.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T142204Z" creationid="Khalid" creationdate="20190924T142204Z">
+        <seg>Washing the hands thrice. For those waking up from night's sleep, intention and _basmalah_ is required, as has preceded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وفوائدُهُ كثيرةٌ، منها:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101807Z" creationid="Khalid" creationdate="20190924T101807Z">
+        <seg>It has many benefits, from them are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وفي شَقٍّ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162850Z" creationid="Khalid" creationdate="20190810T162850Z">
+        <seg>Urinate in a crack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وقراءةُ سورةِ القدرِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T080123Z" creationid="Khalid" creationdate="20191012T080123Z">
+        <seg>The recitation of Sūrah al-Qadr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وقراءةِ قُرآنِ</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101146Z" creationid="Khalid" creationdate="20190924T101146Z">
+        <seg>Recitation of Quran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وقصُّ الأظافِرِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T142501Z" creationid="Khalid" creationdate="20190924T102058Z">
+        <seg>Clip the nails</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وقولُ ما وردَ بعد فراغه وهو: «أشهد أن لا إله إلا الله وحده لا شريك له، وأشهد أن محمدا عبده ورسوله، اللهم اجعلني من التوابين، واجعلني من عبادك المتطهرين»[^ف1] مع رفع بصره إلى السماء.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T161856Z" creationid="Khalid" creationdate="20190924T160755Z">
+        <seg>And to say after its completion what has been narrated, and that is “I bear witness that there is no deity (worthy of worship) except Allāh alone without any partnet and I bear witness that Muḥammad is his slave and messenger. O Allāh, make me from the repentful and from your (purifying/purified?) slaves.”[^fn1] along with directing the sight to the sky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ولم أَجد دليلًا عليها.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T030335Z" creationid="Khalid" creationdate="20190926T030335Z">
+        <seg>I could not find any evidence for it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ومثال ذلك: لو توضأتَ الساعة الواحدة ظهرًا، ومَسَحْتَ على الخفين، ثم انتقض وضوءك في الساعة السادسة فإنه يجوز لك وأنت مقيمٌ أن تمسح على الخفينِ إلى الساعة السادسة من اليوم التالي.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T123701Z" creationid="Khalid" creationdate="20191017T123452Z">
+        <seg>For example, if you make _wuḍūʾ_ at 1pm and wiped over your _khuffs_. Then you lost your _wuḍūʾ_ at 6pm, it is allowed for you, as a resident, to wipe over your _khuffs_ until 6pm the following day.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ومجاوزةُ محلِّ الفرضِ في الأعضاءِ الأربعةِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T140358Z" creationid="Khalid" creationdate="20190924T142726Z">
+        <seg>Exceeding the required area in the four limbs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ومهبِّ الريح.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162807Z" creationid="Khalid" creationdate="20190810T162807Z">
+        <seg>Face the wind (otherwise there is a chance the urine will splash back).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ومَنْزِلٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101617Z" creationid="Khalid" creationdate="20190924T101617Z">
+        <seg>(or when entering) the home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ونارٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162921Z" creationid="Khalid" creationdate="20190810T162900Z">
+        <seg>(and on) fire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ونتفُ الإبطِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T102041Z" creationid="Khalid" creationdate="20190924T102041Z">
+        <seg>Pluck out armpit hair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وهنا:  
+1.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T134029Z" creationid="Khalid" creationdate="20191017T124740Z">
+        <seg>Here:  
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وهو بالماءِ: عَوْدُ خُشُونَةِ المحلِّ كما كان.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T141431Z" creationid="Khalid" creationdate="20190810T162130Z">
+        <seg>With water: Returning the impure state of the place to the former (pure) state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وهو طَاهِرٌ فِي نَفْسِهِ، مُطَهِّرٌ لِغَيْرِهِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T043056Z" creationid="Khalid" creationdate="20190730T043053Z">
+        <seg>It is pure in itself and purifying for other than it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وهو ما دونَ القُلَّتَيْنِ - فينجُسُ بمجردِ ملاقاة النجاسةِ له، سواء تغيَّرَ أَوْ لم يتغيَّر.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T121440Z" creationid="Khalid" creationdate="20190730T070502Z">
+        <seg> That which is less than _qullatayn_ - It becomes _Najis_ just by coming into contact with _najāsah_, irrespective if it changes or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وهو ما فوقَ القُلَّتَيْنِ - فينجسُ إذا تغيَّر لونُهُ أو طعمُهُ أو ريحُهُ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T070615Z" creationid="Khalid" creationdate="20190730T070615Z">
+        <seg>That which is greater than _qullatayn_ - it becomes _Najis_ if its color, taste, or smell changes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وهو واجبٌ لكلِّ خارجِ إنْ لَمْ يكنْ مَنيًّا أو ريحًا، 
+أو نَاشِفًا لم يلوث المحل كالحصى.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T141339Z" creationid="Khalid" creationdate="20190810T162019Z">
+        <seg>It (istinjāʾ) is obligatory for everything that comes out (from the two openings) except _manī_ (sperm), passing wind, or something dry which doesn't defile the place (i.e. the two openings) like small stones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وهوَ^[أي: الماء الطاهر.] طاهرٌ في نَفْسِهِ، غَيْرُ مُطَهِّرٍ لِغَيْرِهِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T054834Z" creationid="Khalid" creationdate="20190730T054733Z">
+        <seg>And it^[i.e. _Ṭāhir_ water] is pure itself but not purifying.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وهيَ زيادة غريبة!</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190926T025216Z" creationid="Khalid" creationdate="20190926T025216Z">
+        <seg>What a strange addition it is!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ويتأكَّدُ:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T095530Z" creationid="Khalid" creationdate="20190924T095530Z">
+        <seg>It's emphasized during times like:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ويجبُ مسحُ أكثرِ أَعْلاهُ، ولا يُجْزِىءُ مَسْحُ أَسْفَلِهِ ولا عَقِبَهُ، ولا يُسنُّ ذلك.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T072215Z" creationid="Khalid" creationdate="20191012T072215Z">
+        <seg>It's obligatory to wipe the majority of the upper portion/top (of the _khuffs_), wiping the lower portion or the heel doesn't suffice, nor is it recommended.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ويجوزُ البولُ قَائِمًا إذَا أَمِنَ ناظرًا أَوْ تَلْوِيْثًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T165228Z" creationid="Khalid" creationdate="20190810T165108Z">
+        <seg>It permissible to urinate standing if no one is looking and one is sure that the urine won't splash back.(It is permissible to urinate standing if he is secure from people's eyesight and contamination (by urine splashing)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ويدخلُ سبابتيهِ في صِمَاخ أذنيه،[^ف3] ويمسحُ بإبهامَيْهِ ظاهِرَهُمَا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T145623Z" creationid="Khalid" creationdate="20190926T023542Z">
+        <seg>(XXX) And then to enter his forefingers into the meatus his ears and to wipe their outer section with his thumbs.[^fn3]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ويغسلُ كفيْهِ ثلاثًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T162059Z" creationid="Khalid" creationdate="20190924T162059Z">
+        <seg>Then to wash the hands thrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ويمسحُ مسافرٌ سَفَرَ قصْرٍ، ثلاثةَ أَيَّام بلياليها، ومسافة القَصْر: يومان معتدلان بسير الأثْقَالِ ودبيبِ الأقدام.[^ف2]</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20191012T072142Z" creationid="Khalid" creationdate="20191012T072142Z">
+        <seg>A traveller who shortens the prayer wipes for (a duration of) three days and three nights. The (travel) distance for which it permissible to shorten the prayers is: A travel of two moderate (in time) days on a beast (like camels, etc.) progressing at a steady pace.[^fn-2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ويَحْرُمُ عَلَيْهِ:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190810T163007Z" creationid="Khalid" creationdate="20190810T162956Z">
+        <seg>It is _ḥarām_ to:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ويَشدُّ لَحْمَةَ الأَسْنَانِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T101847Z" creationid="Khalid" creationdate="20190924T101847Z">
+        <seg>Strengthens the gums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وَحَرُمَ حَلْقُهَا، ولا بَأْسَ بأَخْذِ مَا زَادَ عَلىٰ القبضةِ منْها.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T102335Z" creationid="Khalid" creationdate="20190924T102335Z">
+        <seg>It's prohibited to shave the beard, there is nothing wrong in taking from whatever exceeds a fistful.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وَغَسْلُ الرَّجُلَيْنِ معَ الكعبينِ، وهُمَا: العظمانِ الناتِئَانِ في أَسْفَلِ السَّاقِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T122736Z" creationid="Khalid" creationdate="20190924T103321Z">
+        <seg>The washing of the feet up to the ankles, i.e. the two protruding bones at the bottom of the shins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وَغَسْلُ اليدين مع المرفقينِ، وَالمِرْفَقُ: هو العظمُ الفاصِلُ بَيْنَ الذِّراع والعَضُدِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T143701Z" creationid="Khalid" creationdate="20190924T103138Z">
+        <seg>The washing of the hands up to the _mirfaqayn_ (elbows); a _mirfaq_ is the joint between the forearm bones (radius and ulna) and the humerus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وَمَسْحُ جميعِ ظاهرِ الرأسِ، وَمِنْهُ: الأُذُنَانِ، والبَيَاضُ الذي فوقَهُمَا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190924T103305Z" creationid="Khalid" creationdate="20190924T103305Z">
+        <seg>The wiping of most of the bare head; this includes the ears and the whiteness that is above them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>يجوز المسح على الجبيرة، وهي: أخشاب أو خرق ثربط على الكسر أو الجرح.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T145941Z" creationid="Khalid" creationdate="20191015T140516Z">
+        <seg>It is permissible to wipe over an over an orthosis, that is made of wood or bandage, placed over a fracture or wound.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>يَجُوْزُ استعمالُهُ في غَيْرِ رَفْعِ حَدَثٍ وزوالِ خَبَثٍ كَطَبْخٍ وَشُرْبٍ وَنَحْوِهِمَا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T054920Z" creationid="Khalid" creationdate="20190730T054920Z">
+        <seg>It is permissible to use for other than removing physical and ritual impurity such as in cooking and drinking and their likes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>يَرْفَعُ الحَدَثِ وَيزيلُ الخَبَثِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20190730T043117Z" creationid="Khalid" creationdate="20190730T043117Z">
+        <seg>It can lift spiritual impurity and remove regular impurities.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
