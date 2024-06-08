@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="ar-SA"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="ar-SA"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>## باب التيمم</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T175136Z" creationid="User" creationdate="20240608T175136Z">
+        <seg>## Chapter of Tayammum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>## باب الغسل</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T174037Z" creationid="Khalid" creationdate="20211031T091610Z">
+        <seg>## Chapter of Ghusl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>## باب المياه</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190730T060700Z" creationid="Khalid" creationdate="20190730T042521Z">
@@ -74,6 +90,30 @@
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191017T140219Z" creationid="Khalid" creationdate="20191017T140219Z">
         <seg>(See _Majmūʿ al-Fatāwā_ [21/179]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>**الأول**: أغسال تتعلق بالطهارة وهي الغُسل لغُسل میت، ولجنون، وإغماء، واستحاضة.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T155747Z" creationid="User" creationdate="20240608T123127Z">
+        <seg>First, _aghsāl_ that are related to _ṭahārah_ (purification). These are the ghusl due to cleaning a corpse, after coming out of insanity and unconsciousness, and for istiḥāḍah. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>**والثالث**: أغسال تتعلق بالحج: وهي الأغسال المتبقية من 9–16.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T160345Z" creationid="User" creationdate="20240608T160201Z">
+        <seg>Third, _aghsāl_ related to Ḥajj. These are the remaining ones from 9--16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>**والثاني**: أغسال تتعلق بالصلاة وهي الغُسل لصلاة جمعة، وعيد، وكسوف، واستسقاء.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T160153Z" creationid="User" creationdate="20240608T160049Z">
+        <seg>Second, _aghsāl_ that are related to the prayer. These are the _ghusl_ for the Friday prayer, the Eid prayer, the Eclipse prayer (kusūf), and the prayer asking for rain (istisqāʾ).</seg>
       </tuv>
     </tu>
     <tu>
@@ -156,7 +196,7 @@
         <seg>- Using the right foot first to exit the toilet and saying the _duʿāʾ_:
 
   ::: {custom-style="Arabic Dua"}
-غُفْرَانَكَ، الحَمْدُ لِلهِ الَّذِي أَذْهَبَ عَنِّي الأَذَىٰ وَعَافَانِي  
+غُفْرَانَكَ، الحَمْدُ لِلهِ الَّذِي أَذْهَبَ عَنِّي الأَذَىٰ وَعَافَانِي  
   :::
 
   ::: {custom-style="Arabic Dua Translation"}
@@ -182,6 +222,22 @@
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>4.ومَسُّ  فَرْجِ الآدميِّ قُبُلًا أو دُبُرًا باليد بلَا حائلٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T165232Z" creationid="Khalid" creationdate="20211030T165232Z">
+        <seg>Touching the private parts, either in the back or front, with bare hands without a (covering?).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[^ف1]: أمّا في الطهارة الكبرى فلا تشترط الموالاة.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T204643Z" creationid="User" creationdate="20240608T204619Z">
+        <seg>[^fn1]: As for ṭahārah kubrá (major purification), muwālāh is not a condition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[^ف1]: توضیح: ابتداء مدة المسح على الخفين من وقتِ الحَدَث بعد لبسهما على طهارة.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191017T123443Z" creationid="Khalid" creationdate="20191017T123220Z">
@@ -190,10 +246,42 @@
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>[^ف1]: دليله: حديث جابر بن سمرة: «أن رجلا سأل رسول الله: أنتوضأ من لحوم الغَنَم؟ قال: إن شئت توضأ، وإن شئت فلا تتوضأ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T172455Z" creationid="Khalid" creationdate="20211030T171545Z">
+        <seg>[^fn-1]: The author's evidence is the _ḥadīth_ of Jābir ibn Samurah that a man asked the Messenger of Allāh, “Will you make wudu due to (consuming) mutton?” He replied, «If you so wish, make _wuḍūʾ_; if you so wish (otherwise), don't make _wuḍūʾ_.»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[^ف1]: فيجب الغُسل بمجرد الانتقال، ولو لم يخرج، ومثاله: ما لو أحس بانتقال المنيّ فحبسه حالًا فلم يخرج وجب الغُسل، لوجود الشهوة بانتقاله أشبه ما لو ظهر.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T121555Z" creationid="User" creationdate="20240608T105634Z">
+        <seg>[^fn1]: _Ghusl_ becomes obligatory just its moving [from its original place] even if it doesn't exit [the body]. For example, if one feels the movement of manī and holds it in immediately and it doesn't exit, ghusl becomes obligatory because of the presence of desire; its movement thus resembles ejaculation even if _manī_ is not excreted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[^ف1]: ورد من حديث عمر بن الخطاب قال: قال رسول الله صلى الله عليه وسلم: «ما منكم من أحدِ يتوضأ فيسبغ الوضوءَ، ثم يقولُ: أشهد أن لا إله إلا الله وأشهد أن محمدًا عبده ورسوله إلا فتحت له أبواب الجنة الثمانية يدخل من أيها شاء» رواه مسلم (234) وأبو داود (169) والترمذي (55) وزاد: «اللهم اجعلني من التوابين واجعلني من المتطهرين» وأما زيادة «واجعلني من عبادك الصالحين» فلا أصل لها.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T144749Z" creationid="Khalid" creationdate="20190926T023808Z">
         <seg> [^fn1]: It is reported in the _ḥadīth_ of ʿUmar ibn al-Khaṭṭāb \FP_HIM who said that the Prophet \FPBUH said, “Whoever makes _wuḍūʾ_ and perfects it and then says ‘I bear witness that there is no deity (worthy of worship) except Allāh and that Muḥammad is His servant and messenger,’ except that the eight doors of Jannah will open for him and he can enter from whichever he wishes.” Reported by Muslim (234), Abū Dāwūd (169), al-Tirmidhī (55) and there is an extension: “O Allāh, make me from the repentant and make me from the pure.” As for the extension “...and make me from your righteous slaves,” it has no basis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[^ف2]: أي: حكم غسل الميت تعبدي، لا لوجود حَدَث فيه، كباقي الموجبات السبع.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T122032Z" creationid="User" creationdate="20240608T121936Z">
+        <seg>[^fn2]: The ruling of _ghusl_ after cleaning a corpse is (taʿabbudī), and not due to the presence of _ḥadath_ (spiritual impurities) as in the other seven circumstances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[^ف2]: أي: يحرم عليه قراءة القرآن، والمقصود قراءة آية فأكثر، ويباح له قول ما صادف لفظه لفظ القرآن إن لم يقصد القرآن کالبسملة والحمدلة، وقول مسترجع (إنا لله وإنا إليه راجعون) وقول راكب: [﴿سُبۡحَٰنَ ٱلَّذِی سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقۡرِنِینَ ۝١٣﴾]{custom-style="quran"}، ويباح له أيضًا ذكر الله تعالىٰ، ومتابعة المؤذّن، وكذا الاستماع للقرآن من قاریء أو مسجلٍ ونحوه.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T072156Z" creationid="Khalid" creationdate="20211031T065808Z">
+        <seg>[^fn-2]: i.e. it is impermissible for him to recite the Quran. What is meant is the recitation of an _āyah_ or more. [However,] it is permissible for him to say what is coincidently a phrase from the Quran if he didn't intend by it the Quran, such as the _basmalah_, the _ḥamdalah_, the saying of the _mustarjiʿ_ (innā li-llāhi wa innā ilayhi rājiʿūn), and the saying of the rider (subhan alladhi sakhkhara lanā hadhā wa mā kunnā lahu muqrinīn). It is also permissible for him to say phrases of Allāh's dhikr, to repeat after the muʾaththin, and similarly to listen to the recitation of the Quran from a reciter or from a recording and suchlike.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,10 +310,34 @@
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>[^ف3]: فإن تَوَضأ جاز له الجلوس في المسجد لحديث عطاء قال: رأيت رجالًا من أصحاب رسول الله صلى الله عليه وسلم يجلسون في المسجد وهم مجنبون إذا توضؤوا وضوءَ الصلاة.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T072932Z" creationid="Khalid" creationdate="20211031T072432Z">
+        <seg>[^fn-3]: If he makes _wuḍūʾ_, staying in a masjid is permissible for him due to the _ḥadīth_ of ʿAṭāʾ who said, “I saw men from the companions of the Messenger of Allāh FPBUH sitting in the Masjid in a state of major impurity, but they would only make _wuḍūʾ_ like that for Ṣalāh.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[^ف3]: كالشمع والدُّهنِ والطّلاءِ ونحوها.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T122347Z" creationid="User" creationdate="20240608T122347Z">
+        <seg>[^fn3]: Such as wax, fat, paint, and other similar substances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[^ف3]: ومحل الفرض: الرِجْلَانِ مع الكعبين.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191017T123815Z" creationid="Khalid" creationdate="20191017T123741Z">
         <seg>[^fn-3]: _Maḥal al-Farḍ_: The two feet upto the ankles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[^ف4]: أي : يُسن لذکر يرید حضور صلاة الجمعة، الاغتسال في يوم الجمعة، وعليه: فلا يسن الاغتسال لامرأة، ولا لذكرٍ لا يحضر الجمعة لسقوطها عنه – کالمسافر – ولا يحقق السنة من اغتسل الجمعة قبل يومها.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T122905Z" creationid="User" creationdate="20240608T122357Z">
+        <seg>[^fn4]: In other words, performing _ghusl_ is sunnah_ for males who intend to attend the Friday prayer on Friday. On this basis, _ghusl_ is not _sunnah_ for women nor for males who do not intend to attend the Friday prayer due to it not being obligatory -- due to travel for example. This _sunnah_ is not established if _ghusl_ is performed before the day of Friday (i.e. in its night).</seg>
       </tuv>
     </tu>
     <tu>
@@ -236,6 +348,22 @@
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191017T124730Z" creationid="Khalid" creationdate="20191017T123821Z">
         <seg>[^fn-4]: Note: (FILLER) in/from two situations/states:
 First: It is placed in a state of purity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[^ف5]: هذه الأغسال تنقسم ثلاثة أقسام:</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T123107Z" creationid="User" creationdate="20240608T123105Z">
+        <seg>[^fn5]: These _aghsāl_ (sing. _ghusl_) are divided into three types:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[^ف6]: أي: إذا كانت هناك حاجة للتيمم – كما لو فُقد الماء، أو غلا سعره، أو خاف بردًا ونحو ذلك.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T160623Z" creationid="User" creationdate="20240608T160623Z">
+        <seg>[^fn6]: i.e. in situations where there is a need for _tayammum_ -- if there is no water, or if its expensive to obtain, or if one fears the cold, and other similar scenarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,6 +432,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>[ج] الأغسالُ المسنوناتُ ستة عشر، وهي:</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T102915Z" creationid="User" creationdate="20240608T102906Z">
+        <seg>The circumstances for which _ghusl_ is _sunnah_ are sixteen (16). They are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[ج] السواكُ مسنونٌ كلَّ وقتٍ، لغير صائمٍ بعد الزوال فيكره.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T095523Z" creationid="Khalid" creationdate="20190924T095107Z">
@@ -320,6 +456,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>[ج] سننه سبعة، وهي:</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T085948Z" creationid="User" creationdate="20240608T085948Z">
+        <seg>Its _sunnah_ actions are seven. They are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[ج] سُنَنُهُ ثمانيةَ عَشَرَ، وهيَ:</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T140212Z" creationid="Khalid" creationdate="20190924T140207Z">
@@ -332,6 +476,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190810T162119Z" creationid="Khalid" creationdate="20190810T162117Z">
         <seg>Its condition is purity/cleanliness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[ج] شروط الغُسْلِ سبعةٌ، وهي:</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T093156Z" creationid="Khalid" creationdate="20211031T093156Z">
+        <seg>The conditions of _ghusl_ are seven. They are:</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,10 +512,34 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>[ج] فرضُه شيء واحد، وهو: أن يعمَّ [بالماء] جميعَ بَدَنِهِ، وداخلَ فَمِهِ وَأَنْفِهِ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T085859Z" creationid="User" creationdate="20240608T085859Z">
+        <seg>It has one obligatory aspect: that is to cover one's whole body ‹with water, including the› inside of the mouth and nose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[ج] فروضٌ الوُضُوءِ سِتَّةٌ، وهي:</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T103057Z" creationid="Khalid" creationdate="20190924T103057Z">
         <seg>The obligatory parts of Wuḍūʾ are six (6) and they are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[ج] من تيَقَّنَ الطهارة وشكَّ في الحَدَثِ، أو تیقَّنَ الحَدَثَ وشَكَّ في الطَّهَارَةِ، عَمِلَ بما تيقّن.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T170749Z" creationid="Khalid" creationdate="20211030T170606Z">
+        <seg>Whoever is certain of his _ṭahārah_ but doubts impurity, or is certain of impurity and doubts his _ṭahārah_, then he should base his actions on certainty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[ج] موجبات الغُسْلِ سَبعة، وهي:</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T092734Z" creationid="Khalid" creationdate="20211031T092734Z">
+        <seg>‹Actions› that obligate _ghusl_ are seven (7). They are:</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,6 +584,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>[ج] يجب فيه شيء واحد، وهو التسمية.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T135158Z" creationid="Khalid" creationdate="20211031T135155Z">
+        <seg>Only one thing is obligatory in it and that is the _tasmiyah_ (i.e. saying the _basmalah_)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[ج] يجبُ فيهِ التسميةُ فقط وتسقطُ بتركِهَا سَهْوًا، أَوْ جهلًا لا عَمْدًا.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T103911Z" creationid="Khalid" creationdate="20190924T103804Z">
@@ -420,6 +604,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191012T060945Z" creationid="Khalid" creationdate="20191012T060945Z">
         <seg>It's permissible to wipe over them on seven conditions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[ج] يحرمُ علىٰ المُحْدِثِ حَدَثًا أصغرَ أَوْ أكبرَ:</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T171122Z" creationid="Khalid" creationdate="20211030T171122Z">
+        <seg>Impermissible for one in a state of impurity, _asghar_ or _akbar_ are:</seg>
       </tuv>
     </tu>
     <tu>
@@ -480,6 +672,22 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>[س] كم الأغسَالُ المسنوناتُ؟ وما هيَ؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T102242Z" creationid="User" creationdate="20240608T102242Z">
+        <seg>How many circumstances for which _ghusl_ is _sunnah_? And what are they?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[س] كم شروطُ الغُسْلِ؟ وما هيَ؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T093144Z" creationid="Khalid" creationdate="20211031T093144Z">
+        <seg>How many conditions of _ghusl_? What are they?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[س] كم شروطُ الوضوءِ؟</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T103918Z" creationid="Khalid" creationdate="20190924T103918Z">
@@ -500,6 +708,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190926T032442Z" creationid="Khalid" creationdate="20190926T032420Z">
         <seg>Q: How many nullfiers of Wuḍūʾ are there?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[س] ما الذي يجب في الغُسْل؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T135113Z" creationid="Khalid" creationdate="20211031T135113Z">
+        <seg>What is obligatory in _ghusl_?</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,6 +760,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>[س] ما حكمُ مَنْ شَكَّ في الطَّهَارَةِ؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T170419Z" creationid="Khalid" creationdate="20211030T170354Z">
+        <seg>Q: What is the ruling of one who doubts his _ṭahārah_?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[س] ما حُكْمُ آنية الكفَّارِ وَثِيَابِهم؟</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191012T122525Z" creationid="Khalid" creationdate="20190730T223950Z">
@@ -564,6 +788,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T141415Z" creationid="Khalid" creationdate="20190810T162100Z">
         <seg>What is the condition of its validity?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[س] ما فرضُ الغُسل؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T085655Z" creationid="User" creationdate="20240608T085655Z">
+        <seg>What are the obligatory aspects of _ghusl_?</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,6 +824,22 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>[س] ما واجب التيمم؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T201036Z" creationid="User" creationdate="20240608T200844Z">
+        <seg>What are the wājib actions of tayammum?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[س] ما يحرمُ علىٰ المُحْدِثِ فعلُهُ؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T170937Z" creationid="Khalid" creationdate="20211030T170937Z">
+        <seg>What actions are prohibited for one in a state of impurity?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[س] ما يكره لقاضي الحاجة؟ وما يَحرمُ عليه؟</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191012T122606Z" creationid="Khalid" creationdate="20190810T162547Z">
@@ -616,6 +864,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>[س] کم سُنَنُ الغُسْلِ؟ وما هي؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T085934Z" creationid="User" creationdate="20240608T085934Z">
+        <seg>How many _sunnah_ actions of _ghusl_ are there? What are they?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[س] کم سُنَنُ الوُضُوءِ؟ وما هِيَ؟</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T140142Z" creationid="Khalid" creationdate="20190924T140142Z">
@@ -624,10 +880,42 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>[س] کم شروط صحة التيمم؟ وما هي؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T183753Z" creationid="User" creationdate="20240608T183753Z">
+        <seg>How many conditions are there for the validity of tayammum? What are they?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>[س] کم فرائضُ الوُضُوءِ؟ وَمَا هِيَ؟</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T103027Z" creationid="Khalid" creationdate="20190924T103027Z">
         <seg>What are the obligatory parts of Wuḍūʾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[س] کم فروض التيمم؟ وما هي؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T201117Z" creationid="User" creationdate="20240608T201105Z">
+        <seg>How many farḍ ‹actions› in tayammum? And what are they?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[س] کم مبطلات التيمم؟ وما هي؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T202501Z" creationid="User" creationdate="20240608T202501Z">
+        <seg>How many things render tayammum void? What arer they?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>[س] کم موجباتُ الغُسْلِ؟ وما هي؟</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T092706Z" creationid="Khalid" creationdate="20211031T092706Z">
+        <seg>How many ‹actions› obligate _ghusl_? What are they?</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,6 +1040,94 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>الخارجُ من السبيلين قليلًا كان أو كثيرًا، طاهرًا أو نجسًا.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T163753Z" creationid="Khalid" creationdate="20211030T163753Z">
+        <seg>Whatever exits from the two passages, irrespective if a little or a lot, and irrespective if _ṭāhir_ of _najis_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>الصلاةُ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T171131Z" creationid="Khalid" creationdate="20211030T171131Z">
+        <seg>Ṣalāh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>الغُسْلُ لصلاةِ جمعةٍ في يومها، لذكرٍ حَضَرها.[^ف4]</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T105554Z" creationid="User" creationdate="20240608T103016Z">
+        <seg>Ghusl for the Friday prayer on its very day, for males who will attend.[^fn4]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>النية .</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T200210Z" creationid="User" creationdate="20240608T200210Z">
+        <seg>Intention</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>الوُضُوءُ قبلَهُ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T100344Z" creationid="User" creationdate="20240608T100337Z">
+        <seg>‹Performing› _wuḍūʾ_ before it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>انتقالُ المنيّ من مقرّه.[^ف1]</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T104454Z" creationid="Khalid" creationdate="20211031T092744Z">
+        <seg>The movement of semen from (its place?)[^fn1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>انظر حاشية «الروض» (1/324–325).</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T204722Z" creationid="User" creationdate="20240608T204722Z">
+        <seg>See the marginalia of _al-Rawḍ al-Murbiʿ_ (1/324--325).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>انظر: الفروع (1\202).</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T123008Z" creationid="User" creationdate="20240608T123008Z">
+        <seg>See _al-Furūʿ_ (1/202).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>انظر: المنح الشافيات (1\158--160).</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T092459Z" creationid="Khalid" creationdate="20211030T173649Z">
+        <seg>See _al-Manḥ al-Shāfiyāt_ (1/158--160).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>انظر: حاشية الروض المربع (1\278--279).</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T072232Z" creationid="Khalid" creationdate="20211031T072232Z">
+        <seg>See _Ḥāshiyah al-Rawḍ al-Murbiʿ_ (1/278--279).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>انظر: حاشية الروض المربع (1\280).</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T074330Z" creationid="Khalid" creationdate="20211031T074330Z">
+        <seg>See _Ḥashiyah al-Rawḍ al-Murbiʿ_ (1/280).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>انظر: كشاف القناع (1/33-34).] وَاجِبٌ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190730T075119Z" creationid="Khalid" creationdate="20190730T054642Z">
@@ -768,6 +1144,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>انظر: كشاف القناع (1\151–152).</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T160729Z" creationid="User" creationdate="20240608T160729Z">
+        <seg>See _Kashāf al-Qināʿ_ (vol. 1, pp. 151--152).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>انظر: منار السبيل (1\34).</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190926T025040Z" creationid="Khalid" creationdate="20190926T025040Z">
@@ -776,10 +1160,26 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>انظر: منار السبيل (4\45).</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T121613Z" creationid="User" creationdate="20240608T121607Z">
+        <seg>See _Manār al-Sabīl_ (4/45).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>انقطاعُ ما يوجِبُهُ من بَوْلٍ وريحٍ وَحَیْضٍ وَنِفَاسٍ ونحوِ ذلكَ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T135904Z" creationid="Khalid" creationdate="20190924T104007Z">
         <seg>To be free from all that obligates it such as urinating, passing wind, menstruation, postpartum bleeding, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>بتراب.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T200711Z" creationid="User" creationdate="20240608T200554Z">
+        <seg>be with dirt</seg>
       </tuv>
     </tu>
     <tu>
@@ -864,10 +1264,50 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
-        <seg>حَلْقٌ العَانَةِ.</seg>
+        <seg>ج: شروط صحة التيمم ثمانية، وهي:</seg>
       </tuv>
-      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T142446Z" creationid="Khalid" creationdate="20190924T102030Z">
-        <seg>Shave pubic hair</seg>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T183819Z" creationid="User" creationdate="20240608T183814Z">
+        <seg>The conditions for the validity of tayammum are eight (8). They are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ج: فروضه خمسة، وهي:</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T201141Z" creationid="User" creationdate="20240608T201138Z">
+        <seg>Its farḍ ‹actions› are five (5). They are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ج: مُبْطَلاتُهُ خَمْسَةٌ، وهِي:</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T202528Z" creationid="User" creationdate="20240608T202528Z">
+        <seg>Things which make it void are five (5). They are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ج: يجب فيه التسمية وتسقط سهوا وجهلا، لا عمدة.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T201002Z" creationid="User" creationdate="20240608T201002Z">
+        <seg>The _tasmiyah_ (i.e. saying the _basmalah_) is obligatory for it. ‹Its obligation› is dropped due to forgetfulness or ignorance; not intentionally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>حَلْقُ العَانَةِ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T133348Z" creationid="Khalid" creationdate="20211031T133348Z">
+        <seg>To (trim/cut) pubic hair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>دخول وقت الصلاة المتيمم لها.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T200514Z" creationid="User" creationdate="20240608T200446Z">
+        <seg>The entrance of the time of prayer for which one has done tayammum</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,10 +1320,26 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>رواه سعید بن منصور في سننه (رقم: 646) كما يجوز للجنب والحائض والنفساء العبور من المسجد لحاجة أو غيرها.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T073513Z" creationid="Khalid" creationdate="20211031T073349Z">
+        <seg>It was reported by Saʿīd ibn Manṣūr in his Sunan (#646). Similarly, it is allowed for a Junub, a menstruating woman, and a woman with post-partum bleeding to pass through a masjid due to a need or other than it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>عندَ وضوءٍ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T101127Z" creationid="Khalid" creationdate="20190924T101112Z">
         <seg>During Wuḍūʾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>غير مستعمل.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T200644Z" creationid="User" creationdate="20240608T200644Z">
+        <seg>that was not previously used ‹for tayammum›</seg>
       </tuv>
     </tu>
     <tu>
@@ -904,10 +1360,82 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>فإنه يستحب له التيمم بدلًا عن الغُسل - والله أعلم.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T160718Z" creationid="User" creationdate="20240608T160718Z">
+        <seg>In such cases, _tayammum_ is _mustaḥab_ instead of _ghusl_. Allāh knows best.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>قال الشارح (1\90): «وهو قول جابر بن سمرة، ومحمد بن إسحٰق، وأبي خيثمة، ويحيىٰ بن يحيىٰ، وابن المنذر وأحد قولي الشافعي، وقال الخطابي: ذهب إلى هذا عامة أصحاب الحديث.» ا.هـ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T173534Z" creationid="Khalid" creationdate="20211030T173534Z">
+        <seg>The Shāriḥ said, “This is the opinion of Jābir ibn Samurah, Muḥammad ibn Isḥāq, Abū Khay′thamah, Yaḥyá ibn Yaḥyá, Ibn Mundhir, and one of the two opinions of Imam al-Shāfiʿī. Al-Khaṭṭābī said, ‘This is the opinion of most of the People of Ḥadīth.’” (1/90)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>قال: أصلي في مرابض الإبل؟ قال: لا.» رواه أحمد (5\98) ومسلم (360) وغيرهما.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T173135Z" creationid="Khalid" creationdate="20211030T173135Z">
+        <seg>(The man) said, “Can I pray in camel pens?” He replied, «Yes.»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>قال: أصلي في مرابض الغنم؟ قال: نعم.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T173113Z" creationid="Khalid" creationdate="20211030T172449Z">
+        <seg>(The man) said, “Can I pray in sheepfolds?” He replied, «Yes.»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>قال: أنتوضأ من لحوم الإبل؟ قال: نعم توضأ من لحوم الإبل.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T171947Z" creationid="Khalid" creationdate="20211030T171947Z">
+        <seg>(The man) said, “Do we make _wuḍūʾ_ due to (consuming) camel (meat)?” He replied, «Yes. Make _wuḍūʾ_  due to (consuming) camel (meat).»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>قراءةُ القرآنِ.[^ف2]</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T092324Z" creationid="Khalid" creationdate="20211030T171400Z">
+        <seg>Reciting the Quran[^fn-2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>لكن يكره اتخاذ المسجد طريقًا -- كما نص عليه الإمام أحمد -- بل منع شيخ الإسلام ابن تيمية من اتخاذه طريقًا احترامًا لبيوت الله.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T074300Z" creationid="Khalid" creationdate="20211031T074300Z">
+        <seg>However, it is disliked to take masājid as pathways -- as is reported verbatim from Imam Aḥmad -- Shaykh al-Islām Ibn Taymīyah even forbade those who take (masājid) as pathways out of reverence for the Houses of Allāh FSWT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>له غبار يعلق باليد.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T201608Z" creationid="User" creationdate="20240608T200823Z">
+        <seg>and that has dust which clings to the hands</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>لُبْسهما بعد كمالِ الطّهارةِ بالماءِ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191012T061000Z" creationid="Khalid" creationdate="20191012T061000Z">
         <seg>They are worn after being in a state of complete purification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ما أبطلَ الوضوءَ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T202539Z" creationid="User" creationdate="20240608T202539Z">
+        <seg>Everything that nullifies wuḍūʾ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -920,6 +1448,22 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>مباح.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T200625Z" creationid="User" creationdate="20240608T200602Z">
+        <seg>that is permissible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>مسح الوجه دون الفم.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T201158Z" creationid="User" creationdate="20240608T201158Z">
+        <seg>Wiping the face with the exception of the lips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>هذا هو المذهب، واختار شيخ الإسلام ابن تيمية (رحمه الله تعالى) أن الجبيرة يمسح عليها مطلقًا، سواء شَدّها على طهارة أو على حدث، وسواء جاوزت المحل أو لا، ولا يشترط التيمم عليها بحال، وهو الصواب.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T160416Z" creationid="Khalid" creationdate="20191017T135806Z">
@@ -928,10 +1472,26 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>و على المحدِثِ حَدَثًا أكبرَ:</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T171353Z" creationid="Khalid" creationdate="20211030T171353Z">
+        <seg>...and upon one who's impurity is _asghar_:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>وأخذُ ماءٍ جديدٍ للأُذنينِ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T142454Z" creationid="Khalid" creationdate="20190924T142454Z">
         <seg>And to take another round of water for the ears.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وأكلُ لحم الإبِلِ ولو نيئًا.[^ف1]</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T092152Z" creationid="Khalid" creationdate="20211030T170239Z">
+        <seg>Consumption of camel meat even if raw.[^fn-1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -948,6 +1508,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T140617Z" creationid="Khalid" creationdate="20190924T161254Z">
         <seg>To perform the ablution by one's self (i.e. without the assistance of someone else)[^fn2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وأن يكو:</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T200546Z" creationid="User" creationdate="20240608T200534Z">
+        <seg>And that it (tayammum):</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,10 +1560,34 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>وإزالةُ ما على الفَرْجِ والبَدَنِ مِنْ منيٍّ ونجاسةٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T100519Z" creationid="User" creationdate="20240608T100411Z">
+        <seg>Removing what is on the private part and the body of manī (pre-ejaculatory fluid) and _najāsah_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وإزالةُ ما يمنعُ وُصولُ الماءِ إِلى الجَسَد.[^ف3]</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T105510Z" creationid="Khalid" creationdate="20211031T135047Z">
+        <seg>Removal of what prevents water from reaching the skin.[^fn3]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>وإزالةُ ما يمنعُ وُصُولَ الماءِ من شَمْعٍ أَوْ عَجِيْنٍ أَوْ نَحْوِهِمَا.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T140047Z" creationid="Khalid" creationdate="20190924T140047Z">
         <seg>Removal of anything that prevents water from reaching (the skin) such as wax, dough, and so on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وإسلام الكافرِ، ولو مرتدًّا.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T092956Z" creationid="Khalid" creationdate="20211031T092956Z">
+        <seg>Entering Islam for a kāfir, even if an apostate</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,10 +1600,34 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>وإعادةُ غَسْل رجليه بمكانٍ آخرَ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T102525Z" creationid="User" creationdate="20240608T102146Z">
+        <seg>Washing one's feet once more in a separate place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>وإعفاءُ اللِّحْيَةِ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T142618Z" creationid="Khalid" creationdate="20190924T102322Z">
         <seg>Let the beard grow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وإغماءٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103419Z" creationid="User" creationdate="20240608T103409Z">
+        <seg>And [upon coming out of] unconsciousness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وإفراغُ الماءِ على رأسِهِ ثلاثًا، وَعلى بقية بَدَنِهِ ثلاثًا.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T101758Z" creationid="User" creationdate="20240608T101758Z">
+        <seg>Pouring water over one's head three times, and over the rest of one's body three times.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1021,6 +1637,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191017T134215Z" creationid="Khalid" creationdate="20191017T134027Z">
         <seg>If it doesn't exceed the wounded area, he would wash the healthy parts and wipe over the wounded area without performing _tayammum_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وإمرارُ اليد على الجَسَدِ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T102130Z" creationid="User" creationdate="20240608T102113Z">
+        <seg>Passing one's hands over the body.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1049,6 +1673,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>واستسقاءٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103303Z" creationid="User" creationdate="20240608T103245Z">
+        <seg>And [for] the istisqāʾ [prayer] (prayer for asking for rain).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>واستصحابُ النيةِ إلى آخرِ الوضوءِ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T142820Z" creationid="Khalid" creationdate="20190924T142819Z">
@@ -1073,10 +1705,26 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>والإسلام.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T134923Z" creationid="Khalid" creationdate="20211031T134923Z">
+        <seg>Islam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>والإسلامُ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T104016Z" creationid="Khalid" creationdate="20190924T104016Z">
         <seg>Islam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>والاستنجاء أو الاستجمار.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T200412Z" creationid="User" creationdate="20240608T200412Z">
+        <seg>_Istinjāʾ_ or _Istijmār_</seg>
       </tuv>
     </tu>
     <tu>
@@ -1113,6 +1761,30 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>والترتيب.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T201230Z" creationid="User" creationdate="20240608T201228Z">
+        <seg>Order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>والتمييز.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T200352Z" creationid="User" creationdate="20240608T200352Z">
+        <seg>Tamyīz (discernment)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>والتمييزُ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T134952Z" creationid="Khalid" creationdate="20211031T134952Z">
+        <seg>Tamyīz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>والتمييزُ، أي: بلوغ سَبْعِ سِنِيْنَ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T144753Z" creationid="Khalid" creationdate="20190924T104040Z">
@@ -1121,10 +1793,42 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>والتيامنُ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T101809Z" creationid="User" creationdate="20240608T101809Z">
+        <seg>Starting with the right.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>والتَّرْتِيْبُ بَيْنَ الأعضاءِ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T103345Z" creationid="Khalid" creationdate="20190924T103345Z">
         <seg>The order of washing the limbs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>والجلوسُ في المسجدِ بلا وُضُوءٍ.[^ف3]</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T171507Z" creationid="Khalid" creationdate="20211030T171507Z">
+        <seg>Staying in a masjid without (performing) _wuḍūʾ_[^fn-3]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>والحيضُ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T093002Z" creationid="Khalid" creationdate="20211031T093002Z">
+        <seg>Menstruation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>والردَّةُ عن الإسلامِ (والعياذُ بالله تعالى).</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T170253Z" creationid="Khalid" creationdate="20211030T170252Z">
+        <seg>Apostasy from Islam (Refuge with Allāh is sought).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1145,10 +1849,26 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>والطوافُ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T171141Z" creationid="Khalid" creationdate="20211030T171141Z">
+        <seg>Ṭawāf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>والعقل.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T200328Z" creationid="User" creationdate="20240608T200325Z">
+        <seg>A sound mind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>والعقلُ.</seg>
       </tuv>
-      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T104028Z" creationid="Khalid" creationdate="20190924T104028Z">
-        <seg>Of sound mind</seg>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T134944Z" creationid="Khalid" creationdate="20190924T104028Z">
+        <seg>A sound mind</seg>
       </tuv>
     </tu>
     <tu>
@@ -1157,6 +1877,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T142741Z" creationid="Khalid" creationdate="20190924T142741Z">
         <seg>And the second and third washings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>والغُسْلُ لأجلِ غُسل میتٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103108Z" creationid="User" creationdate="20240608T103108Z">
+        <seg>_Ghusl_ for one who did _ghusl_ for a dead person.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1193,6 +1921,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>والماءُ الطهورُ المباحُ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T135027Z" creationid="Khalid" creationdate="20211031T135025Z">
+        <seg>Permissible _ṭahūr_ water</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>والماءُ الطهورُ المُبَاحُ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T104121Z" creationid="Khalid" creationdate="20190924T104121Z">
@@ -1217,10 +1953,34 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>والموالاة في الطهارة الصغرى.[^ف1]</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T205847Z" creationid="User" creationdate="20240608T205847Z">
+        <seg>Al-Muwālah in _ṭahārah sugrá_ (minor purification).[^fn1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>والموالاةُ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T101858Z" creationid="User" creationdate="20240608T101850Z">
+        <seg>(Doing it in order?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>والموالاةُ، وَهِيَ: أَنْ لا يُؤَخِّرَ غَسْلَ عُضْوٍ إلىٰ أَنْ يَجِفَّ ما قبلَهُ بزَمَنٍ معتدلٍ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T103421Z" creationid="Khalid" creationdate="20190924T103419Z">
         <seg>Continuity and it is to not delay the washing of limb until one fears that (the time period is separated).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>والموت، تَعَبُّدًا.[^ف2]</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T104449Z" creationid="Khalid" creationdate="20211031T093026Z">
+        <seg>Death, _taʿabbudan_[^fn2]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1237,6 +1997,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T142523Z" creationid="Khalid" creationdate="20190924T102109Z">
         <seg>Look in the mirror</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>والنفاسُ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T093012Z" creationid="Khalid" creationdate="20211031T093012Z">
+        <seg>Post-partum bleeding</seg>
       </tuv>
     </tu>
     <tu>
@@ -1281,6 +2049,30 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>وتسقط سهوا وجهلا، لا عمدة.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T093129Z" creationid="Khalid" creationdate="20211031T093129Z">
+        <seg>‹Its obligation› is dropped due to forgetfulness or ignorance; not intentionally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وتسقطُ سهوًا وجهلًا، لا عمدًا.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T084325Z" creationid="User" creationdate="20240608T084325Z">
+        <seg>\[However\] it is waived due to forgetting or not knowing, but not intentionally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وتعيين النية لما يتمم له، من حدث أصغر، أو أكبر، أو من نجاسة على البدن.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T205613Z" creationid="User" creationdate="20240608T202440Z">
+        <seg>Specifying the intention for what one wants to do tayammum for: from ḥadath asghar, ḥadath akbar, or from physical impurity on the body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>وتغيُّرِ رائحةِ فمٍ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T101522Z" creationid="Khalid" creationdate="20190924T101522Z">
@@ -1317,6 +2109,38 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T142553Z" creationid="Khalid" creationdate="20190924T102129Z">
         <seg>Trim the mustache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وخروجُ النجاسةِ من بقية البَدَنِ، فَإِنْ كان الخارجُ بولًا أو غائطًا نقضَ مطلقًا وإِنْ كان غيرهما كالدَّمِ والقيءِ، نقض إِنْ كثُر عند كُلّ أحدٍ بحسب نفسِهِ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T164251Z" creationid="Khalid" creationdate="20211030T164038Z">
+        <seg>The exit of _najāsah_ from any other part of the body. If what exits is urine or stool (feces), it nullifies absolutely. If other than these two such as blood and vomit, it nullfies if in large amounts according to each one's personal estimation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وخروجُهُ من مَخْرِجِهِ المُعْتَادِ بِلذَّةٍ، فَإِنْ خَرَجَ لغيرِ ذلكَ لم يُوجب الغُسْلَ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T092920Z" creationid="Khalid" creationdate="20211031T092840Z">
+        <seg>Its ‹i.e. semen› exit from its place accompanied by desire. If it exits without it ‹i.e. without desire›, then it doesn't obligate _ghusl_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وخلعُ نحوِ الخفِ إن تيمَّم وهو لابسُه.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T204541Z" creationid="User" creationdate="20240608T204541Z">
+        <seg>Removal of the likes of a khuff if one made tayammum while wearing it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وخُرُوجُ الوقتِ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T202900Z" creationid="User" creationdate="20240608T202610Z">
+        <seg>Exit of the ‹prayer› time.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1361,6 +2185,22 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>وزوالُ العقلِ بجنونٍ، أو تغطيتُه بنحوِ نومٍ، ما لم يكن يسيرًا عُرْفًا من جالسٍ متمكّن أَوْ قائمٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T092134Z" creationid="Khalid" creationdate="20211031T092134Z">
+        <seg>Loss of intellect due to madness, or its unconsciousness due to sleep and suchlike with what is not customarily (considered) light from both one sitting (firmly?) or standing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وزوالُ العُذْرِ المُبيحِ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T202934Z" creationid="User" creationdate="20240608T202934Z">
+        <seg>Cessation of the excuse that permitted ‹tayammum in the first place›</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>وسترُهُمَا لمحلِّ الفَرْضِ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191012T122948Z" creationid="Khalid" creationdate="20191012T061019Z">
@@ -1401,10 +2241,26 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>وعدم القدرة على استعمال الماء.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T200506Z" creationid="User" creationdate="20240608T200506Z">
+        <seg>Inability to use water</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>وعدمُ وصْفِهِمَا البَشَرةَ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191012T061238Z" creationid="Khalid" creationdate="20191012T061232Z">
         <seg>They do not describe the skin beneath due to being thin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وغَسلُ الميّتِ أَوْ بعضِهِ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T165535Z" creationid="Khalid" creationdate="20211030T165535Z">
+        <seg>Giving _ghusl_ to the dead or washing some part of him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1465,10 +2321,130 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>وكلُّ ما أوجبَ الغُسْلَ أوجبَ الوضوءَ إلَّا الموتُ.[^ف2]</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211031T092209Z" creationid="Khalid" creationdate="20211030T170336Z">
+        <seg>Everything that mandates ghusl, mandates _wuḍūʾ_, except death.[^fn-1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولإحرامٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103527Z" creationid="User" creationdate="20240608T103527Z">
+        <seg>For [entering the state of] _iḥrām_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولا محترق.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T200805Z" creationid="User" creationdate="20240608T200805Z">
+        <seg>that is not burnt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولاستحاضة لكل صلاةٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103503Z" creationid="User" creationdate="20240608T103503Z">
+        <seg>And due to _istiḥāḍah_ for every prayer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولجنونٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103349Z" creationid="User" creationdate="20240608T103349Z">
+        <seg>For insanity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولدخول مكةَ – ولو مع حيضٍ -.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103607Z" creationid="User" creationdate="20240608T103557Z">
+        <seg>For entering Makkah, even if menstruating --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولدخولِ حرمها.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103651Z" creationid="User" creationdate="20240608T103628Z">
+        <seg>And for entering its _ḥaram_ (sanctuary).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولرمي جِمارٍ.[^ف5]</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T104436Z" creationid="User" creationdate="20240608T103937Z">
+        <seg>For the throwing at the Jamarāt.[^fn5]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولصلاةِ عيد في يَوْمِهِ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103133Z" creationid="User" creationdate="20240608T103133Z">
+        <seg>For the Eid prayer on its very day.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولصلاۃِ كُسوفٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103150Z" creationid="User" creationdate="20240608T103150Z">
+        <seg>For the Eclipse prayer (Kusūf)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولطوافِ زیارةٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103754Z" creationid="User" creationdate="20240608T103735Z">
+        <seg>For ṭawāf al-ziyārah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولطوافِ وَدَاعٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103834Z" creationid="User" creationdate="20240608T103834Z">
+        <seg>For ṭawāf al-wadāʿ (farewell ṭawāf).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>ولم أَجد دليلًا عليها.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190926T030335Z" creationid="Khalid" creationdate="20190926T030335Z">
         <seg>I could not find any evidence for it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولمبيتٍ بمزدلفة.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103858Z" creationid="User" creationdate="20240608T103858Z">
+        <seg>For staying the night at Muzdalifah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولمسُ الذَّكرِ بشَرَةَ الأُنْثىٰ، والأُنْثىٰ بِشَرَةِ الذَّكرِ بِشَهْوَةٍ، ولو كان الملموسُ مَيْتًا أَوْ عجُوزًا أَوْ مَحْرَمًا.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T165449Z" creationid="Khalid" creationdate="20211030T165449Z">
+        <seg>The touching of female skin by a male and male skin by a female with (sexual) desire, even if the one touched is a corpse, and old person, or a _maḥram_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ولوقوفٍ بعَرَفَة.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T103711Z" creationid="User" creationdate="20240608T103711Z">
+        <seg>For the standing at ʿArafah.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1485,6 +2461,22 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T140358Z" creationid="Khalid" creationdate="20190924T142726Z">
         <seg>Exceeding the required area in the four limbs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ومسح اليدين إلى الكوعين.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T204504Z" creationid="User" creationdate="20240608T201214Z">
+        <seg>Wiping the hands including the wrists.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>ومسُّ المصحفِ بلا حائلٍ.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T171324Z" creationid="Khalid" creationdate="20211030T171324Z">
+        <seg>Touching a _muṣḥaf_ without a barrier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1517,6 +2509,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T102041Z" creationid="Khalid" creationdate="20190924T102041Z">
         <seg>Pluck out armpit hair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وهذه المسألة والتي قبلها من مفردات المذهب.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20211030T173620Z" creationid="Khalid" creationdate="20211030T173602Z">
+        <seg>This issue along with the one before it is from the _mufradāt_ of the Madhhab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1563,15 +2563,6 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
-        <seg>وهو واجبٌ لكلِّ خارجِ إنْ لَمْ يكنْ مَنيًّا أو ريحًا، 
-أو نَاشِفًا لم يلوث المحل كالحصى.</seg>
-      </tuv>
-      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T141339Z" creationid="Khalid" creationdate="20190810T162019Z">
-        <seg>It (istinjāʾ) is obligatory for everything that comes out (from the two openings) except _manī_ (sperm), passing wind, or something dry which doesn't defile the place (i.e. the two openings) like small stones.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ar-SA">
         <seg>وهوَ^[أي: الماء الطاهر.] طاهرٌ في نَفْسِهِ، غَيْرُ مُطَهِّرٍ لِغَيْرِهِ.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190730T054834Z" creationid="Khalid" creationdate="20190730T054733Z">
@@ -1596,6 +2587,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv xml:lang="ar-SA">
+        <seg>ويتيمم للكلّ استحبابًا للحاجةِ.[^ف6]</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T173932Z" creationid="User" creationdate="20240608T104339Z">
+        <seg>Tayammum is recommended for all the aforementioned due to need.[^fn6]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
         <seg>ويجبُ مسحُ أكثرِ أَعْلاهُ، ولا يُجْزِىءُ مَسْحُ أَسْفَلِهِ ولا عَقِبَهُ، ولا يُسنُّ ذلك.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20191012T072215Z" creationid="Khalid" creationdate="20191012T072215Z">
@@ -1614,8 +2613,8 @@ First: It is placed in a state of purity.</seg>
       <tuv xml:lang="ar-SA">
         <seg>ويدخلُ سبابتيهِ في صِمَاخ أذنيه،[^ف3] ويمسحُ بإبهامَيْهِ ظاهِرَهُمَا.</seg>
       </tuv>
-      <tuv xml:lang="en-GB" changeid="Khalid" changedate="20210904T145623Z" creationid="Khalid" creationdate="20190926T023542Z">
-        <seg>(XXX) And then to enter his forefingers into the meatus his ears and to wipe their outer section with his thumbs.[^fn3]</seg>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T174703Z" creationid="Khalid" creationdate="20190926T023542Z">
+        <seg>XXX And then to enter his forefingers into the meatus his ears and to wipe their outer section with his thumbs.[^fn3]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1680,6 +2679,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv xml:lang="en-GB" changeid="Khalid" changedate="20190924T103305Z" creationid="Khalid" creationdate="20190924T103305Z">
         <seg>The wiping of most of the bare head; this includes the ears and the whiteness that is above them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ar-SA">
+        <seg>وَوُجود الماء.</seg>
+      </tuv>
+      <tuv xml:lang="en-GB" changeid="User" changedate="20240608T202907Z" creationid="User" creationdate="20240608T202551Z">
+        <seg>Presence of water.</seg>
       </tuv>
     </tu>
     <tu>
