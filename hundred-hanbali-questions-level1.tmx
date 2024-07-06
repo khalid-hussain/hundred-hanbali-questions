@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="ar-SA">
+        <seg>## باب الحَيْض والنِّفَاس</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T133717Z" creationid="Khalid" creationdate="20240706T130732Z">
+        <seg>## Menses and postpartum bleeding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
         <seg>## باب الغسل</seg>
       </tuv>
       <tuv lang="en-GB" changeid="User" changedate="20240608T174037Z" creationid="Khalid" creationdate="20211031T091610Z">
@@ -246,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="ar-SA">
+        <seg>[^ف1]: أي: دم يقتضيه الطبع السليم.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T134513Z" creationid="Khalid" creationdate="20240706T132558Z">
+        <seg>[^fn-1]: i.e. blood that a sound female anatomy entails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
         <seg>[^ف1]: توضیح: ابتداء مدة المسح على الخفين من وقتِ الحَدَث بعد لبسهما على طهارة.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20191017T123443Z" creationid="Khalid" creationdate="20191017T123220Z">
@@ -374,12 +390,10 @@
     </tu>
     <tu>
       <tuv lang="ar-SA">
-        <seg>[^ف4]: توضیح: الجبيرة لا تخلو من حالتين:  
-الحالة الأولى: أن توضع على طهارة.</seg>
+        <seg>[^ف4]: توضیح: الجبيرة لا تخلو من حالتين:</seg>
       </tuv>
-      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T124730Z" creationid="Khalid" creationdate="20191017T123821Z">
-        <seg>[^fn-4]: Note: (FILLER) in/from two situations/states:
-First: It is placed in a state of purity.</seg>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T140710Z" creationid="Khalid" creationdate="20240706T140509Z">
+        <seg>[^fn-4]: Note: (FILLER) in/from two situations/states:</seg>
       </tuv>
     </tu>
     <tu>
@@ -460,6 +474,30 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20190730T042935Z" creationid="Khalid" creationdate="20190730T042935Z">
         <seg>There are three (3) types of water:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] أقلُّها يومٌ وليلةٌ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T133636Z" creationid="Khalid" creationdate="20240706T133636Z">
+        <seg>Its shortest period is a day and a night.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] أقلّهُ ثلاثةَ عَشَرَ يَوْمًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T133638Z" creationid="Khalid" creationdate="20240706T133638Z">
+        <seg>Its shortest is 13 days.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] إذا كانتِ النجاسةُ من الكلبِ والخنزيرِ وما تولَّد منهما أَوْ مِنْ أَحَدِهِمَا يُغَسل المتنجسُ سبعَ مراتٍ إحداهنّ بترابٍ طَهور[^ف1].</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T133804Z" creationid="Khalid" creationdate="20240706T133804Z">
+        <seg>If the _najāsah_ is from a dog or a pig or from what they give birth to (same species), or what one of them gives birth to (cross-species), the object with _najāsah_ is cleaned seven times, with one of the times being with _ṭahūr_ earth.[^fn-1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,6 +606,30 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
+        <seg>[ج] كلُّ خارجٍ مِنهُ نجس، إِلَّا مني الآدمي ولبنُهُ فطاهرٌ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T133812Z" creationid="Khalid" creationdate="20240706T133812Z">
+        <seg>All excrement from it is _najas_ except for human sperm and milk, for they are _ṭāhir_ (pure).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] ما أُكِلَ لحمُه: فَبَوْلُهُ وَرَوْثُهُ، وكل خارج منه طاهرٌ[^ف4]/، إِلَّا الدَمَ والقيحَ، لكن يعفى عن يسيره في الصّلاة.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T133809Z" creationid="Khalid" creationdate="20240706T133809Z">
+        <seg>Whatever [animal] whose meat is eaten, then its urine and stool, and whatever is excreted from it is _ṭāhir_ (pure)[^fn-4] except blood and pus; however a small amount is (overlooked/ forgiven/ excused) in Ṣalāh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] ما لا يؤكلُ لحمُهُ من الطير والبهائمِ مما فوق الهرة نَجِس.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T133806Z" creationid="Khalid" creationdate="20240706T133806Z">
+        <seg>Birds and cattle whose meat is not eaten and which are bigger than a cat are _najas_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
         <seg>[ج] من تيَقَّنَ الطهارة وشكَّ في الحَدَثِ، أو تیقَّنَ الحَدَثَ وشَكَّ في الطَّهَارَةِ، عَمِلَ بما تيقّن.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20211030T170749Z" creationid="Khalid" creationdate="20211030T170606Z">
@@ -596,6 +658,22 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20190926T034027Z" creationid="Khalid" creationdate="20190926T034027Z">
         <seg>The nullifiers of Wuḍūʾ are eight (8). They are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] هو دمٌ يخرجُ مع الولادةِ أو قبلها بيومين أو ثلاثةٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T133641Z" creationid="Khalid" creationdate="20240706T133641Z">
+        <seg>It is blood that discharges with childbirth or two or three days before it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] هو دمُ طبيعةٍ وجبلّةٍ،[^ف1] يخرجُ من المرأةِ مع الصحّةِ من غير سبب ولادةٍ في أَوْقاتٍ معلومةٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T133601Z" creationid="Khalid" creationdate="20240706T133601Z">
+        <seg>It is natural (jibillah) blood,[^fn-1] that discharges from healthy women not due to childbirth at specific time periods.</seg>
       </tuv>
     </tu>
     <tu>
@@ -644,6 +722,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20191012T060945Z" creationid="Khalid" creationdate="20191012T060945Z">
         <seg>It's permissible to wipe over them on seven conditions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[ج] يحرم أشياءُ، منها:</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T133648Z" creationid="Khalid" creationdate="20240706T133648Z">
+        <seg>Several things are impermissible. These are:</seg>
       </tuv>
     </tu>
     <tu>
@@ -700,6 +786,22 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20190924T161940Z" creationid="Khalid" creationdate="20190924T161916Z">
         <seg>Q: Inform me of the all the characteristics of Wuḍūʾ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] كم أقلُّ الطّهر بين الحَيْضَتَيْنِ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131154Z" creationid="Khalid" creationdate="20240706T131154Z">
+        <seg>What is the shortest period of purity between two periods of menses?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] كم أقلُّ مُدَّةِ الحَيْضِ؟ وما أكثَرُهَا؟ وما غالبُها؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131054Z" creationid="Khalid" creationdate="20240706T131054Z">
+        <seg>What is the shortest period for menses? What is the longest? And what is the average?</seg>
       </tuv>
     </tu>
     <tu>
@@ -872,6 +974,22 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
+        <seg>[س] ما هو الحَيْضُ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T130742Z" creationid="Khalid" creationdate="20240706T130742Z">
+        <seg>What are menses?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما هو النِّفَاس؟ وما أكثرُهُ؟ وما أقلّهُ؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131336Z" creationid="Khalid" creationdate="20240706T131238Z">
+        <seg>What is postpartum bleeding? What is its longest [period]? And what is its shortest?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
         <seg>[س] ما هي آداب قاضي الحَاجَةِ؟</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20191012T122556Z" creationid="Khalid" creationdate="20190810T162321Z">
@@ -892,6 +1010,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="User" changedate="20240608T201036Z" creationid="User" creationdate="20240608T200844Z">
         <seg>What are the wājib actions of tayammum?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>[س] ما يحرمُ بالحيض والنِّفَاس؟</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131651Z" creationid="Khalid" creationdate="20240706T131651Z">
+        <seg>What is impermissible with menses and postpartum bleeding?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1042,8 +1168,8 @@ First: It is placed in a state of purity.</seg>
       <tuv lang="ar-SA">
         <seg>إما أن تتجاوز محل الحاجة، فإن قدر على نزعها وإعادة ربطها بحيث لا تتجاوز محلَّ الماء فَعَل، وإلا وَجَبَ عليه أن يتوضأ ويتيمم.</seg>
       </tuv>
-      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T125536Z" creationid="Khalid" creationdate="20191017T124756Z">
-        <seg>It exceeds the required area; it should be (re)moved and reattached(FILLER Water something), if possible. If not, it is compulsory to perform _wuḍūʾ_ and _tayammum_.</seg>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T152922Z" creationid="Khalid" creationdate="20191017T124756Z">
+        <seg>If it exceeds the required area; it should be (re)moved and reattached(FILLER Water something), if possible. If not, it is compulsory to perform _wuḍūʾ_ and _tayammum_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1096,6 +1222,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
+        <seg>الحالة الأولى: أن توضع على طهارة.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T140538Z" creationid="Khalid" creationdate="20240706T140538Z">
+        <seg>First: It is placed in a state of purity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
         <seg>الحالة الثانية: أن توضع على غير طهارة.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20191017T134321Z" creationid="Khalid" creationdate="20191017T134237Z">
@@ -1136,10 +1270,10 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
-        <seg>النية .</seg>
+        <seg>الوطء.</seg>
       </tuv>
-      <tuv lang="en-GB" changeid="User" changedate="20240608T200210Z" creationid="User" creationdate="20240608T200210Z">
-        <seg>Intention</seg>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131722Z" creationid="Khalid" creationdate="20240706T131719Z">
+        <seg>Sexual intercourse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1352,30 +1486,6 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
-        <seg>ج: إذا كانتِ النجاسةُ من الكلبِ والخنزيرِ وما تولَّد منهما أَوْ مِنْ أَحَدِهِمَا يُغَسل المتنجسُ سبعَ مراتٍ إحداهنّ بترابٍ طَهور[^ف1].</seg>
-      </tuv>
-      <tuv lang="en-GB" changeid="Khalid" changedate="20240705T201400Z" creationid="Khalid" creationdate="20240705T184744Z">
-        <seg>If the _najāsah_ is from a dog or a pig or from what they give birth to (same species), or what one of them gives birth to (cross-species), the object with _najāsah_ is cleaned seven times, with one of the times being with _ṭahūr_ earth.[^fn-1]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ar-SA">
-        <seg>ج: شروط صحة التيمم ثمانية، وهي:</seg>
-      </tuv>
-      <tuv lang="en-GB" changeid="User" changedate="20240608T183819Z" creationid="User" creationdate="20240608T183814Z">
-        <seg>The conditions for the validity of tayammum are eight (8). They are:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ar-SA">
-        <seg>ج: فروضه خمسة، وهي:</seg>
-      </tuv>
-      <tuv lang="en-GB" changeid="User" changedate="20240608T201141Z" creationid="User" creationdate="20240608T201138Z">
-        <seg>Its farḍ ‹actions› are five (5). They are:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ar-SA">
         <seg>ج: كلُّ خارجٍ مِنهُ نجس، إِلَّا مني الآدمي ولبنُهُ فطاهرٌ.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20240705T201228Z" creationid="Khalid" creationdate="20240705T191908Z">
@@ -1384,34 +1494,10 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
-        <seg>ج: ما أُكِلَ لحمُه: فَبَوْلُهُ وَرَوْثُهُ، وكل خارج منه طاهرٌ[^ف4]/، إِلَّا الدَمَ والقيحَ، لكن يعفى عن يسيره في الصّلاة.</seg>
-      </tuv>
-      <tuv lang="en-GB" changeid="Khalid" changedate="20240705T203947Z" creationid="Khalid" creationdate="20240705T203947Z">
-        <seg>Whatever [animal] whose meat is eaten, then its urine and stool, and whatever is excreted from it is _ṭāhir_ (pure)[^fn-4] except blood and pus; however a small amount is (overlooked/ forgiven/ excused) in Ṣalāh.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ar-SA">
         <seg>ج: ما لا يؤكلُ لحمُهُ من الطير والبهائمِ مما فوق الهرة نَجِس.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20240705T201325Z" creationid="Khalid" creationdate="20240705T191238Z">
         <seg>Birds and cattle whose meat is not eaten and which are bigger than a cat are _najas_.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ar-SA">
-        <seg>ج: مُبْطَلاتُهُ خَمْسَةٌ، وهِي:</seg>
-      </tuv>
-      <tuv lang="en-GB" changeid="User" changedate="20240608T202528Z" creationid="User" creationdate="20240608T202528Z">
-        <seg>Things which make it void are five (5). They are:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ar-SA">
-        <seg>ج: يجب فيه التسمية وتسقط سهوا وجهلا، لا عمدة.</seg>
-      </tuv>
-      <tuv lang="en-GB" changeid="User" changedate="20240608T201002Z" creationid="User" creationdate="20240608T201002Z">
-        <seg>The _tasmiyah_ (i.e. saying the _basmalah_) is obligatory for it. ‹Its obligation› is dropped due to forgetfulness or ignorance; not intentionally.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1592,10 +1678,10 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
-        <seg>هذا هو المذهب، واختار شيخ الإسلام ابن تيمية (رحمه الله تعالى) أن الجبيرة يمسح عليها مطلقًا، سواء شَدّها على طهارة أو على حدث، وسواء جاوزت المحل أو لا، ولا يشترط التيمم عليها بحال، وهو الصواب.</seg>
+        <seg>هذا هو المذهب.</seg>
       </tuv>
-      <tuv lang="en-GB" changeid="Khalid" changedate="20210904T160416Z" creationid="Khalid" creationdate="20191017T135806Z">
-        <seg>This is the [official position of the] _madhhab_. Shaykh al-Islām Ibn Taymīyyah \FM_HIM opined that orthoses should be wiped over unconditionally, irrespective if put on in a state of purity or not, and irrespective if only the wounded area is covered or not. _Tayammum_ is not required in any case. And this seems to be what is correct.</seg>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T153630Z" creationid="Khalid" creationdate="20240706T153102Z">
+        <seg>This is the [official position of the] _madhhab_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1612,6 +1698,22 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20190924T142454Z" creationid="Khalid" creationdate="20190924T142454Z">
         <seg>And to take another round of water for the ears.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وأكثرُهُ أَربعون يومًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131623Z" creationid="Khalid" creationdate="20240706T131623Z">
+        <seg>Its longest [period] is 40 days.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وأكثَرُهَا خمسةَ عشرَ يَوْمًا.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131115Z" creationid="Khalid" creationdate="20240706T131115Z">
+        <seg>Its longest is 15 days.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1760,10 +1862,9 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
-        <seg>وإما أن لا تتجاوز محل الحاجة، فإنه يغسلُ الجزء 
-الصحيح ويمسحُ على الجزء المجبور بلا تیمم.</seg>
+        <seg>وإما أن لا تتجاوز محل الحاجة، فإنه يغسلُ الجزء الصحيح ويمسحُ على الجزء المجبور بلا تیمم.</seg>
       </tuv>
-      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T134215Z" creationid="Khalid" creationdate="20191017T134027Z">
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T140552Z" creationid="Khalid" creationdate="20240706T140552Z">
         <seg>If it doesn't exceed the wounded area, he would wash the healthy parts and wipe over the wounded area without performing _tayammum_.</seg>
       </tuv>
     </tu>
@@ -1805,6 +1906,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20210904T161500Z" creationid="Khalid" creationdate="20191017T123142Z">
         <seg>If not put on in a state of purity, the healthy parts should be washed and _tayammum_ should be performed, without wiping the orthosis, irrespective if it covers more than the wounded area or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>واختار شيخ الإسلام ابن تيمية (رحمه الله تعالى) أن الجبيرة يمسح عليها مطلقًا، سواء شَدّها على طهارة أو على حدث، وسواء جاوزت المحل أو لا، ولا يشترط التيمم عليها بحال، وهو الصواب.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T153513Z" creationid="Khalid" creationdate="20240706T153513Z">
+        <seg>Shaykh al-Islām Ibn Taymīyyah \FM_HIM opined that orthoses should be wiped over unconditionally, irrespective if put on in a state of purity or not, and irrespective if only the wounded area is covered or not. Tayammum is not required in any case. And this seems to be the correct opinion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1961,6 +2070,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
+        <seg>والجلوسُ في المسجدِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131803Z" creationid="Khalid" creationdate="20240706T131803Z">
+        <seg>Sitting in a masjid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
         <seg>والحيضُ.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20211031T093002Z" creationid="Khalid" creationdate="20211031T093002Z">
@@ -1997,6 +2114,30 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20190924T140233Z" creationid="Khalid" creationdate="20190924T140229Z">
         <seg>Using the _siwāk_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والصلاة.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131727Z" creationid="Khalid" creationdate="20240706T131727Z">
+        <seg>Ṣalāh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والصوم.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131732Z" creationid="Khalid" creationdate="20240706T131732Z">
+        <seg>Fasting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>والطواف.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131737Z" creationid="Khalid" creationdate="20240706T131735Z">
+        <seg>Ṭawāf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2441,6 +2582,22 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
+        <seg>وغالبُهَا سِتٌّ أَوْ سَبْعٌ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131127Z" creationid="Khalid" creationdate="20240706T131120Z">
+        <seg>Its average is five or six [days].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وغالبُهُ بقيةُ الشَّهْرِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131214Z" creationid="Khalid" creationdate="20240706T131214Z">
+        <seg>Its average is the remainder of the month.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
         <seg>وغَسلُ الميّتِ أَوْ بعضِهِ.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20211030T165535Z" creationid="Khalid" creationdate="20211030T165535Z">
@@ -2469,6 +2626,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20190810T162850Z" creationid="Khalid" creationdate="20190810T162850Z">
         <seg>Urinate in a crack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>وقراءة القرآن.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131741Z" creationid="Khalid" creationdate="20240706T131739Z">
+        <seg>Recitation of Quran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2513,10 +2678,10 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
-        <seg>وكلُّ ما أوجبَ الغُسْلَ أوجبَ الوضوءَ إلَّا الموتُ.[^ف2]</seg>
+        <seg>وكلُّ ما أوجبَ الغُسْلَ أوجبَ الوضوءَ إلَّا الموتُ.</seg>
       </tuv>
-      <tuv lang="en-GB" changeid="Khalid" changedate="20211031T092209Z" creationid="Khalid" creationdate="20211030T170336Z">
-        <seg>Everything that mandates ghusl, mandates _wuḍūʾ_, except death.[^fn-1]</seg>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T160402Z" creationid="Khalid" creationdate="20240706T160402Z">
+        <seg>Everything that mandates ghusl, mandates _wuḍūʾ_, except death.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2529,10 +2694,50 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
+        <seg>ولا بعد خمسين سنةٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131022Z" creationid="Khalid" creationdate="20240706T131009Z">
+        <seg>Nor after 50 years [of age].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ولا حَدَّ لأقلِّهِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131633Z" creationid="Khalid" creationdate="20240706T131633Z">
+        <seg>There is no limit to its shortest period.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ولا حَدَّ لأكثرِهِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131229Z" creationid="Khalid" creationdate="20240706T131229Z">
+        <seg>There is no limit to its longest [period].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ولا حَيْضَ قبل تسعٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T130957Z" creationid="Khalid" creationdate="20240706T130955Z">
+        <seg>There is no menses before [the age of] nine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
         <seg>ولا محترق.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="User" changedate="20240608T200805Z" creationid="User" creationdate="20240608T200805Z">
         <seg>that is not burnt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ولا مَعَ حَمْلٍ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131032Z" creationid="Khalid" creationdate="20240706T131031Z">
+        <seg>Nor with pregnancy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2657,6 +2862,14 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
+        <seg>ومتى طَهُرَتْ يجب عليها قضاءُ الصوم لا الصلاةِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T132540Z" creationid="Khalid" creationdate="20240706T132508Z">
+        <seg>When she becomes pure, it is obligatory on her to make up [missed obligatory] fasts but not [missed instances of] Ṣalāh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
         <seg>ومثال ذلك: لو توضأتَ الساعة الواحدة ظهرًا، ومَسَحْتَ على الخفين، ثم انتقض وضوءك في الساعة السادسة فإنه يجوز لك وأنت مقيمٌ أن تمسح على الخفينِ إلى الساعة السادسة من اليوم التالي.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20191017T123701Z" creationid="Khalid" creationdate="20191017T123452Z">
@@ -2685,6 +2898,14 @@ First: It is placed in a state of purity.</seg>
       </tuv>
       <tuv lang="en-GB" changeid="Khalid" changedate="20211030T171324Z" creationid="Khalid" creationdate="20211030T171324Z">
         <seg>Touching a _muṣḥaf_ without a barrier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ar-SA">
+        <seg>ومسُّ المصحفِ.</seg>
+      </tuv>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T131757Z" creationid="Khalid" creationdate="20240706T131751Z">
+        <seg>Touching a _muṣḥaf_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2729,12 +2950,10 @@ First: It is placed in a state of purity.</seg>
     </tu>
     <tu>
       <tuv lang="ar-SA">
-        <seg>وهنا:  
-1.</seg>
+        <seg>وهنا:</seg>
       </tuv>
-      <tuv lang="en-GB" changeid="Khalid" changedate="20191017T134029Z" creationid="Khalid" creationdate="20191017T124740Z">
-        <seg>Here:  
-1.</seg>
+      <tuv lang="en-GB" changeid="Khalid" changedate="20240706T152917Z" creationid="Khalid" creationdate="20240706T140358Z">
+        <seg>Thus:</seg>
       </tuv>
     </tu>
     <tu>
